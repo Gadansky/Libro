@@ -103,7 +103,7 @@ Estado: mezcla de canon inicial y borrador de expansión.
 - Una función principal del ejército secreto es mantener la secrecía en torno a la esencia y la ascensión.
 - El ejército secreto puede operar ante la población común mediante excusas públicas o coberturas burocráticas.
 - El ejército secreto investiga reportes de actividad sobrenatural, anomalías de esencia y posibles rastros de manipulación artificial de esencia.
-- El ejército secreto utiliza tecnología de detección de esencia durante sus investigaciones. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- El ejército secreto utiliza tecnología de detección de esencia durante sus investigaciones. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - Más adelante debe profundizarse en la estructura del ejército secreto. [PENDIENTE]
 
 ### 3.4. Élites académicas e instituciones de esencia
@@ -254,7 +254,7 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 - En la cámara hay catorce pebeteros asociados a las facetas de la esencia.
 - Los pebeteros no son artefactos mayores ni menores.
-- Para evitar confusiones con la categoría de artefactos, pueden denominarse reliquias. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- Para evitar confusiones con la categoría de artefactos, pueden denominarse reliquias. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - Las reliquias funcionan como parte del sello y del sistema de ocultamiento de la cámara.
 - También permiten concentrar facetas específicas de la esencia.
 - La cámara contiene un altar central vinculado a la Máscara.
@@ -265,6 +265,5 @@ Estado: mezcla de canon inicial y borrador de expansión.
 - Definir el término estable para el espacio bajo la mina.
 - Definir el diseño visual completo de la cámara sellada.
 - Definir el diseño definitivo del altar y la escalera.
-- Definir si “reliquia” será el término definitivo para este tipo de objeto o tecnología artificial de esencia. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- Definir si “reliquia” será el término definitivo para este tipo de objeto o tecnología artificial de esencia. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - Definir el alcance exacto del ocultamiento de la cámara si se vuelve regla general del sistema. [REVISAR EN BIBLIA]
-

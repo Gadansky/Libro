@@ -9,7 +9,7 @@ Estado: documento de organización.
 - `03_Arcos_narrativos.md` organiza acontecimientos narrativos y secuencias de historia.
 - `04_Personajes.md` reúne fichas de personajes y entidades activas o relevantes.
 - `05_Lugares_facciones_y_sociedades.md` reúne geografía, instituciones, facciones y sociedades.
-- `06_Tecnologia_y_escencia.md` reúne desarrollo tecnológico relacionado con esencia, tecnología de esencia, cristales de esencia, detectores, observación imperial, reliquias y objetos artificiales de esencia.
+- `06_Tecnologia_y_esencia.md` reúne desarrollo tecnológico relacionado con esencia, tecnología de esencia, cristales de esencia, detectores, observación imperial, reliquias y objetos artificiales de esencia.
 - `07_Artefactos.md` funciona como catálogo operativo de artefactos mayores, menores y pendientes, sin duplicar el desarrollo completo de la Biblia.
 - `08_Backlog_de_ideas.md` conserva ideas, dudas y pendientes no cerrados.
 - `09_Diagnostico_y_plan_de_mejora.md` conserva diagnóstico, recomendaciones de análisis y organización.
@@ -61,7 +61,7 @@ Función:
 - Registrar geografía, regiones, asentamientos, instituciones, facciones y estructuras sociales.
 - Mantener fichas de lugares y sociedades sin duplicar la cadena narrativa de los arcos.
 
-### 2.6. 06_Tecnologia_y_escencia.md
+### 2.6. 06_Tecnologia_y_esencia.md
 
 Estado: borrador reestructurado de desarrollo tecnológico.
 
@@ -116,4 +116,3 @@ Función:
 - “Distorsión” queda como nombre legacy; el nombre canon es **Espacio-tiempo**.
 - “Magia” queda como nombre funcional o histórico asociado al uso de la faceta **anímica**; no reemplaza el nombre canon de la faceta.
 - Si un elemento del Legacy no se traduce a la Biblia del mundo, simplemente no se incluye.
-

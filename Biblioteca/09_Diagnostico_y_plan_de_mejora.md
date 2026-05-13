@@ -47,7 +47,7 @@ Estado: documento de trabajo, no canon.
 
 ### 2.5. Tecnología y esencia
 
-- `06_Tecnologia_y_escencia.md` fue reestructurado como documento tecnológico.
+- `06_Tecnologia_y_esencia.md` fue reestructurado como documento tecnológico.
 - El conocimiento público sobre esencia y ascensión fue retirado como sección central, porque pertenece principalmente a `02_Presente_narrativo.md`.
 - Se añadieron secciones pendientes para tecnología basada en esencia, cristales de esencia, ingeniería de esencia, observación imperial, detectores del ejército secreto y reliquias/objetos artificiales de esencia.
 
@@ -325,7 +325,7 @@ Estado: documento de trabajo, no canon.
 ### 8.1. Prioridad inmediata
 
 - Verificar que las ediciones definidas para `01_Biblia_de_mundo.md` queden integradas en esta tanda:
-  - corregir “escencia” a “esencia”;
+  - mantener “esencia” sin C;
   - integrar corrupción por exposición facetaria;
   - integrar deterioro por saturación del núcleo.
 - Revisar que los documentos descargados durante la sesión mantengan coherencia entre sí.
@@ -364,9 +364,8 @@ Estado: documento de trabajo, no canon.
 - `03_Arcos_narrativos.md` debe contener acontecimientos y estructura de historia.
 - `04_Personajes.md` debe contener fichas de individuos y entidades activas o relevantes.
 - `05_Lugares_facciones_y_sociedades.md` debe contener geografía, instituciones, facciones y sociedades.
-- `06_Tecnologia_y_escencia.md` debe contener desarrollo tecnológico, tecnología de esencia, reliquias y objetos artificiales de esencia.
+- `06_Tecnologia_y_esencia.md` debe contener desarrollo tecnológico, tecnología de esencia, reliquias y objetos artificiales de esencia.
 - `07_Artefactos.md` debe funcionar como catálogo operativo, no como duplicado de la Biblia.
 - `08_Backlog_de_ideas.md` debe conservar ideas y pendientes sin canonizar.
 - `09_Diagnostico_y_plan_de_mejora.md` debe funcionar como diagnóstico vivo del estado del proyecto.
 - `99_Legacy.md` debe conservar el material histórico inicial sin corregir automáticamente el canon vigente.
-

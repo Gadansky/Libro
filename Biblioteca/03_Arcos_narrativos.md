@@ -148,7 +148,7 @@ Estado: borrador de estructura narrativa.
 - Hay una pequeña confrontación entre los jóvenes y los desconocidos.
 - Al final no pasa nada grave.
 - La protagonista nota que uno de ellos tiene un dispositivo muy extraño en las manos.
-- Ese dispositivo es un detector de movimiento de esencia, aunque ella no sabe eso. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- Ese dispositivo es un detector de movimiento de esencia, aunque ella no sabe eso. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - Para la protagonista, simplemente es un aparato extraño.
 - Los miembros del ejército secreto se van.
 - No interrumpen la fiesta, pero les advierten que no entren a la mina.
@@ -249,7 +249,7 @@ Estado: borrador de estructura narrativa.
 #### 1.10.2. Reliquias de esencia
 
 - Los catorce pebeteros no son artefactos mayores ni menores.
-- Para evitar confusiones con los artefactos sobrevivientes de universos anteriores, los pebeteros pueden denominarse reliquias. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- Para evitar confusiones con los artefactos sobrevivientes de universos anteriores, los pebeteros pueden denominarse reliquias. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - Las catorce reliquias de esencia funcionan como un círculo de sello.
 - Su propósito es evitar que cualquier entidad pueda detectar que esa cámara secreta existe.
 - Las reliquias permiten concentrar facetas específicas de la esencia.
@@ -526,12 +526,12 @@ Estos pendientes pueden permanecer como información reservada, desarrollo futur
 ### 3.2. Pendientes de nombres y terminología
 
 - Nombre definitivo de la Guardia Civil o Guardia Ciudadana.
-- Definición del término “reliquias” para los catorce pebeteros como objetos artificiales de esencia, diferenciados de los artefactos mayores y menores. [AFECTA A: 06_Tecnologia_y_escencia.md]
-- Corrección documental global de “escencia” a “esencia” en todos los archivos. [AFECTA A: todos los documentos]
+- Definición del término “reliquias” para los catorce pebeteros como objetos artificiales de esencia, diferenciados de los artefactos mayores y menores. [AFECTA A: 06_Tecnologia_y_esencia.md]
+- Corrección documental global del uso de “esencia” en todos los documentos activos. [AFECTA A: todos los documentos activos]
 
 ### 3.3. Pendientes que afectan otros documentos
 
-- Definir el dispositivo extraño usado por los desconocidos. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- Definir el dispositivo extraño usado por los desconocidos. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - Definir el alcance exacto del sello de ocultamiento de la cámara frente a tecnología, percepción natural de esencia y Chainlinks de ascensión. [REVISAR EN BIBLIA]
 - Registrar la faceta de largo plazo de la protagonista: hielo. [AFECTA A: 04_Personajes.md]
 - Registrar la corrupción permanente de la esencia corporal de la protagonista por la faceta de hielo. [AFECTA A: 04_Personajes.md] [REVISAR EN BIBLIA]
@@ -539,7 +539,7 @@ Estos pendientes pueden permanecer como información reservada, desarrollo futur
 - Registrar el espectro de hielo si se vuelve entidad relevante. [AFECTA A: 04_Personajes.md]
 - Registrar en la Biblia la regla general de deterioro por saturación del núcleo para ascendidos inmortales con núcleo cristalizado. [AFECTA A: 01_Biblia_de_mundo.md] [REVISAR EN BIBLIA]
 - Separar la descripción estable de la Garganta, la mina y la cámara sellada en el documento de lugares. [AFECTA A: 05_Lugares_facciones_y_sociedades.md]
-- Definir si “reliquia” será el término definitivo para los objetos artificiales de esencia asociados a la cámara sellada. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- Definir si “reliquia” será el término definitivo para los objetos artificiales de esencia asociados a la cámara sellada. [AFECTA A: 06_Tecnologia_y_esencia.md]
 
 ---
 
@@ -556,4 +556,3 @@ Estos pendientes pueden permanecer como información reservada, desarrollo futur
 - No se revelará al inicio la causa real del temblor.
 - No se revelará al inicio que la lesión de hielo de la protagonista es una corrupción permanente de su esencia corporal.
 - No se revelará al inicio que la faceta de largo plazo de la protagonista será hielo.
-

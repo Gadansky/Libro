@@ -143,7 +143,7 @@ Estado: fichas parciales y espacios pendientes.
 
 - Actúan como soldados, aunque no necesariamente usan uniformes militares evidentes.
 - Su apariencia y comportamiento los distinguen de la población rural de la aldea.
-- Usan tecnología de detección de esencia durante investigaciones del ejército secreto. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- Usan tecnología de detección de esencia durante investigaciones del ejército secreto. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - La protagonista no sabe que forman parte del ejército secreto.
 
 ### 5.3. Pendientes
@@ -152,7 +152,7 @@ Estado: fichas parciales y espacios pendientes.
 - Definir roles internos del equipo.
 - Definir si todos poseen conocimiento de esencia y ascensión.
 - Definir si alguno de ellos tiene capacidad de ascensión.
-- Definir el dispositivo de detección que utilizan. [AFECTA A: 06_Tecnologia_y_escencia.md]
+- Definir el dispositivo de detección que utilizan. [AFECTA A: 06_Tecnologia_y_esencia.md]
 
 ---
 
@@ -290,4 +290,3 @@ Estado: fichas parciales y espacios pendientes.
 - Definir relación con la esencia y la ascensión.
 - Definir si tendrá presencia directa en la trama principal.
 - Definir si funciona como figura religiosa, política, antagonista, aliada, autoridad distante u otro rol narrativo.
-

@@ -35,7 +35,7 @@ Estado: canon narrativo inicial / borrador funcional.
 - El estilo tecnológico de la capital puede entenderse como essencepunk.
 - La tecnología de este mundo no está basada exactamente en los mismos conceptos físicos que la tecnología de nuestro mundo.
 - La tecnología aprovecha fenómenos emergentes de la esencia.
-- Falta desarrollar con más detalle cómo funciona la tecnología basada en esencia. [PENDIENTE: desarrollar en 06_Tecnologia_y_escencia.md]
+- Falta desarrollar con más detalle cómo funciona la tecnología basada en esencia. [PENDIENTE: desarrollar en 06_Tecnologia_y_esencia.md]
 
 ---
 
@@ -72,4 +72,3 @@ Estado: canon narrativo inicial / borrador funcional.
 - Al inicio de la historia, lo relevante es que existan rumores de cosas raras, por ejemplo relatos traídos por mercaderes sobre aldeas vecinas.
 - Entre esos rumores pueden existir reportes de supuestos fantasmas, desapariciones, ataques inexplicables u otros fenómenos que la población común no interpreta como hechos sobrenaturales comprobados.
 - La gente puede tomar esos relatos como historias interesantes o entretenidas, no necesariamente como hechos verdaderos.
-
