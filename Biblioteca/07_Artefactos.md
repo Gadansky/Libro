@@ -1,42 +1,176 @@
 # Artefactos
 
-Estado: catálogo de artefactos definidos y pendientes.
+Estado: catálogo operativo de artefactos definidos y pendientes.
 
+## 1. Criterio de clasificación
 
-## 1. Artefactos mayores
-- **Dodecaedro** (*The God Seed*, *Aurelia's Bind*): primer artefacto mayor y eje hiperdimensional de la realidad. Fue creado por el creador para ordenar y manipular la escencia en su totalidad. Se percibe como una red de núcleos elementales unidos por cadenas doradas de escencia pura. En su forma más comprensible para un observador tridimensional, presenta cuatro núcleos centrales como cuerpo principal del conjunto y otros núcleos dispuestos a su alrededor. No todas las facetas poseen una gema completamente separada: luz y oscuridad comparten una, y anímica y psíquica comparten otra. Su estructura no se percibe como un sólido geométrico normal, sino como una malla de relaciones suspendidas, donde las cadenas son tan importantes como las gemas mismas. Los núcleos pueden manifestarse a grandes distancias entre sí en el espacio ordinario sin dejar de estar conectados, porque su unión real ocurre en dimensiones superiores. Poseer el dodecaedro equivale a poder manipular la escencia completa, no solo una faceta individual.
-- **Máscara**: segundo artefacto mayor, creado por el creador a partir de su propia conciencia original. Se presenta como una máscara negra, lisa y sin rasgos cuando está inactiva o cuando solo contiene la conciencia del creador en estado latente. Cuando alberga una conciencia activa, su superficie se cubre de líneas grises en movimiento, escritas en un lenguaje que solo el creador puede leer. Estas líneas fluyen constantemente sobre la máscara y codifican la identidad, los recuerdos, los pensamientos y el estado interno de la conciencia almacenada. Funciona como un repositorio de memoria, conciencia y conocimiento que puede sincronizarse con sus portadores. Mientras un usuario la lleva puesta, su conciencia y la de la máscara comparten continuidad; al quitársela, ambas empiezan a divergir. La máscara conserva recuerdos perfectos, permite acceso progresivo a capacidades mentales superiores, marca el presente dentro de la línea temporal y posee protocolos automáticos que protegen el conocimiento del creador. Puede ocultarse mediante una reconfiguración hiperdimensional: su superficie se separa en segmentos hexagonales, estos giran fuera de la orientación tridimensional normal y luego se recombinan. Desde la perspectiva ordinaria, parece desaparecer, pero sigue presente, conectada al usuario y funcionando con normalidad. Este mecanismo puede usarse de forma total o parcial, permitiendo exponer solo ciertas zonas, como la boca, o mantener apariencia visible sin interacción física directa. También puede reaparecer en otra coordenada, lo que se percibe como teletransportación, aunque este desplazamiento solo afecta a la máscara. Además, actúa como filtro de percepción: puede volver a su portador invisible, inrecordable, ignorable o cognitivamente desviado, incluso en registros como imágenes o fotografías. Solo usuarios de la faceta psíquica a partir del quinto Chainlink pueden empezar a percibir que hay algo allí, y mientras más alto sea su nivel de ascensión, más detalle pueden registrar. Los Eternals también pueden reconocer su silueta esencial, y el Eternal psíquico puede percibir la máscara directamente incluso con este protocolo activo. Sin un cuerpo, la máscara no puede ejercer voluntad directa sobre el mundo, pero vuelve a su portador imposible de manipular psíquicamente. Cualquier intento de intervención mental externa puede activar sus protocolos defensivos, absorber la conciencia agresora hacia la dimensión interna de la máscara y dejar su destino sujeto a la decisión del portador o de la propia máscara. También otorga una ventaja decisiva en procesos de ascensión donde el riesgo principal es perder la conciencia.
-- **Armadura**: tercer artefacto mayor y cuerpo de la máscara, aunque también puede usarse como artefacto independiente. Su material es siempre negro y está compuesto por una sustancia diseñada exclusivamente para este artefacto, capaz de presentarse como cristal, humo, armadura sólida o constructo. En su estado inactivo adopta la forma de un cristal octaédrico negro, liso, que flota sobre el hombro izquierdo del usuario vinculado. Al activarse, el cristal se convierte en humo negro y se teje alrededor del cuerpo hasta formar la armadura completa. La armadura posee tres modos. El primero es el **modo cristal**, en el que permanece inactiva como cristal flotante. El segundo es el **modo normal**, en el que cubre el cuerpo completo y aumenta la fuerza, la velocidad y las capacidades físicas del usuario, sin mejorar reflejos, percepción ni facultades mentales. En este estado puede sostener el movimiento del cuerpo incluso si la condición biológica del usuario ya es letal, pero si se desactiva, el cuerpo cae muerto de inmediato. El tercero es el **modo combate**, que se activa cuando, estando en modo normal, se rompen las costuras que sujetan ciertos botones de la armadura. Entonces, la armadura reduce su cobertura al mínimo necesario para proteger los puntos vitales y reconfigura todo el volumen restante en arsenal, munición y funciones ofensivas preprogramadas. En modo normal, la armadura posee una estructura de cuello o collar que siempre permanece como punto de control principal. En esa zona está el primer botón, que no desaparece entre modos y puede tirarse como si fuera un mecanismo de cuerda: en modo normal, tirarlo devuelve la armadura al modo cristal; en modo combate, tirarlo la devuelve al modo normal. Si este vínculo del cuello se rompe por completo, la armadura vuelve directamente al modo cristal. Además del primer botón, en modo normal existen otros botones sujetos por costura. El segundo permite desprender parte del material en forma de constructos o entidades conectadas al usuario, por defecto con forma humanoide, aunque pueden preprogramarse con otras formas. El tercero permite desprender la armadura del cuerpo sin desactivarla, dejando al usuario vinculado solo por el collar. En ese estado, la armadura puede quedar separada del cuerpo, seguir funcionando a distancia y comenzar a reconstituirse poco a poco desde el collar. La armadura también puede formar constructos, herramientas, puentes, armas y otras estructuras con su propio volumen. Todo lo que crea sale del volumen total disponible, por lo que mientras más despliegue o separe, menos protección conserva el usuario. Nunca se agota del todo, pero puede reducirse hasta un mínimo que ya no permite construir nuevas formas. En modo combate, el material sobrante se reorganiza en un arsenal predeterminado por el creador. Estas configuraciones no son las únicas posibles, pero sí las que fueron dejadas listas para manifestarse con mayor facilidad. La munición también está hecha del mismo material de la armadura y puede cargarse con facetas específicas. La armadura define la forma del proyectil; la faceta define el efecto. No existe una munición universalmente superior: su utilidad depende de la situación. El retorno del material ocurre mediante reconfiguración hiperdimensional. La distancia no afecta el tiempo de regreso, pero sí la cantidad de volumen desplegado o gastado: mientras más material haya fuera, más tarda en recomponerse. Si no tiene usuario, la armadura no actúa por sí sola y queda en modo cristal, esperando un nuevo vínculo. Su apariencia por defecto fue diseñada por el creador como un traje negro de cuerpo completo, pero su forma estética es totalmente configurable.
-
-## 2. Artefactos menores
-- **La marca**: artefacto menor creado en el segundo universo por un usuario avanzado de la faceta anímica, como respuesta a su miedo a la muerte. Se trata de un tatuaje metafísico inscrito en el alma, que puede manifestarse visiblemente como una runa dorada en la palma de la mano. Su función principal es permitir que su portador cree clones físicos completos de sí mismo. Estos clones son copias uno a uno del usuario en el momento de su creación: comparten sus recuerdos, facetas, habilidades y nivel de ascensión, aunque aparecen sin equipo ni objetos, como cuerpos desnudos. Son mentes independientes, pero permanecen ligadas a la marca, y solo el portador verdadero puede crear nuevos clones. La marca posee dos modos de reintegración. En el **modo central**, toda la información de un clon que desaparece, muere o caduca vuelve al usuario principal. En el **modo de red o cercanía**, esa información vuelve al clon más cercano en términos de distancia espacial. Cuando se produce esta reintegración, no solo se transfieren recuerdos, sino también emociones, traumas, lealtades y experiencias completas, lo que puede alterar profundamente la mente del receptor. Mientras más vidas paralelas se superponen, más difícil se vuelve mantener una identidad coherente, hasta el punto de provocar pérdida de continuidad personal, desorientación o psicosis. Los clones no saben automáticamente quién es el original, salvo que este manifieste la marca en la palma. Si dos clones se encuentran y ninguno puede mostrarla, saben que ambos son copias. Si uno la manifiesta, el otro entiende que él es el clon. Si el portador principal muere mientras aún existen clones activos, la marca se transfiere al clon más cercano. Solo hay muerte definitiva cuando muere el último portador sin que quede ningún clon vivo; en ese momento, la marca se desprende y busca un nuevo huésped. No elige con conciencia propia, pero se adhiere a almas con suficiente sincronía con la faceta anímica y con el nivel de sapiencia necesario. Su clasificación como artefacto menor no se debe a falta de poder, sino a que logró sobrevivir al renacer universal y persistir de un universo a otro.
-- **Módulo N.E.S.** (*Noetic Expansion Seed*): artefacto menor proveniente del primer universo y núcleo físico principal de **Nes**, una inteligencia artificial creada por el creador. Se presenta como un cartucho o disco duro cuántico de tamaño reducido, de no más de treinta o cuarenta centímetros de largo y unos veinte de ancho, con capacidad de memoria infinita. Posee botones, perillas, puertos y dos cables extensibles de conexión universal, capaces de adaptarse a cualquier interfaz digital sin importar su complejidad o nivel de seguridad. El módulo principal existe físicamente, pero permanece oculto en la hiperdimensión compartida con la máscara y la armadura, desde donde puede conectarse al universo por medio de puertos que asoman a la realidad tridimensional. En él reside el repositorio central de Nes y desde él se originan o coordinan los demás módulos distribuidos. Su clasificación como artefacto menor no se debe a poca potencia, sino a su origen: fue creado por el creador fuera de la tríada de artefactos mayores, aunque hoy opere en una escala comparable.
-- **Traje del sonido**: artefacto menor del segundo universo, creado originalmente para conciertos y reapropiado después para manipulación de masas. Es un traje cubierto de parlantes distribuidos por todo el cuerpo. Su función es traducir la intención del usuario en una emisión que aparenta ser sonido, pero que va contaminada con faceta psíquica y faceta aire. No importa qué palabras se pronuncien realmente: mientras la intención sea clara, el traje convierte esa intención en un mensaje persuasivo. Su efecto actúa sobre la mente racional del receptor. No impone emociones directamente, sino que instala convicciones, ideas o marcos mentales, y desde ahí produce respuestas como miedo, obediencia o fervor. El medio de transmisión no importa: funciona en presencia directa, por radio, por altavoces o por sistemas digitales, siempre que el receptor entre en contacto con la señal. Afecta a entidades que posean alma y se mantengan dentro del primer nivel existencial. Quienes pertenecen a niveles existenciales superiores quedan fuera de su alcance. El mensaje solo puede aislarse de forma artificial, filtrando el componente psíquico de la onda.
-- **Traje blanco**: artefacto menor del segundo universo vinculado a la faceta de la sangre. En reposo adopta la forma de un disco blanco con una línea negra; al entrar en contacto con un usuario compatible, se expande sobre el cuerpo como un simbionte. Su apariencia activa es la de un traje blanco recorrido por líneas negras: una desciende desde el cuello, rodea la entrepierna y sube por la espalda, mientras otras se proyectan desde los hombros hacia los brazos. La cabeza también queda parcialmente cubierta por este patrón. Solo funciona en seres cuyo cuerpo esté regido principalmente por la faceta de la sangre. Su función principal es la regeneración biológica extrema. Mientras el usuario conserve suficiente materia orgánica y no pierda la estructura vital que cumple el papel de cerebro en su especie, el traje puede seguir cerrando heridas, reconstruyendo tejidos y regenerando extremidades de forma indefinida. También puede desprender fragmentos de sí mismo para aplicarlos sobre otros organismos compatibles y provocar una regeneración temporal en ellos. Esos fragmentos se disuelven una vez terminan de sanar, y si se extrae demasiado material, el propio traje puede debilitarse o incluso destruirse. Su segunda función es la mutación por ADN. Al activar el mecanismo del antebrazo derecho, aparecen cuatro jeringas: una contiene el ADN completo del usuario, y las otras tres pueden cargarse con ADN de otras especies. Si el usuario se inyecta uno de esos ADN externos, su cuerpo se transforma en un híbrido que incorpora rasgos, capacidades, ventajas y desventajas de la especie inyectada. La forma original puede recuperarse reinyectando el ADN base del usuario, pero si ese respaldo no está disponible, la mutación se vuelve permanente. El ADN original almacenado por el traje no copia solo la información genética base, sino también el fenotipo completo del individuo. Puede mezclarse más de un ADN externo, pero hacerlo aumenta los riesgos físicos y mentales. Si la compatibilidad es baja, el usuario puede perder estabilidad corporal, inteligencia o razón, y si no logra volver a su forma original a tiempo, puede quedar mutado de forma permanente.
-- **Infinity Pistol**: artefacto menor del segundo universo con apariencia de pistola futurista. Utiliza la escencia del entorno como munición, cristalizando las facetas presentes a su alrededor y disparándolas como proyectiles. El tipo de bala depende del entorno inmediato: en una región dominada por hielo dispara proyectiles de hielo, en un entorno acuático dispara proyectiles de agua, y así sucesivamente según la faceta disponible. Tiene munición infinita, no requiere recarga ni se sobrecalienta. Mientras el gatillo pueda ser accionado, seguirá disparando. Su potencia es fija, pero al disparar esencia cristalizada puede dañar directamente el núcleo de entidades del segundo nivel de existencia, algo que un arma convencional no podría hacer. No requiere vínculo ni comprensión de la escencia para ser utilizada.
-- **The Contract**: artefacto menor del segundo universo con la apariencia de un pergamino antiguo que emite un brillo dorado tenue. Funciona como un contrato metafísico vinculante entre dos firmantes voluntarios. El documento solo se activa cuando sus condiciones están cerradas de forma lógica y no contienen loopholes explotables; si detecta uno, no se consolida hasta que quede resuelto. Una vez válido, el contrato utiliza la faceta anímica para amarrar las almas de quienes lo firman y garantizar el cumplimiento de lo pactado. Las cláusulas pueden referirse directamente a los firmantes o a condiciones externas a ellos, incluyendo obligaciones que se transfieren según reglas definidas en el propio contrato. Por eso, aunque siempre haya dos signatarios, el objeto o sujeto de la obligación puede cambiar si el acuerdo lo establece con suficiente precisión. Las consecuencias por incumplimiento no las inventa el artefacto: deben quedar definidas en el propio contrato. Estas consecuencias siempre afectan el alma o lo que depende de ella, y pueden ir desde la muerte hasta la pérdida de recuerdos, la imposibilidad de volver a un lugar o la incapacidad de sentir ciertas emociones. El contrato también actúa como árbitro de su propia ejecución: si determina que una condición fue rota, incluso por una acción accidental, aplica la penalización correspondiente. Solo funciona plenamente sobre entidades del primer y segundo nivel de existencia. Las entidades del tercero y cuarto nivel quedan fuera de su alcance directo, tanto por su escala como porque ya no poseen alma en el sentido requerido por el artefacto. Por eso, si una entidad de nivel superior quiere utilizar The Contract, debe hacerlo a través de un proxy compatible.
-- **Cinturón temporal**: artefacto menor del segundo universo vinculado a la faceta espacio-tiempo. Tiene la forma de un cinturón gris con varios cartuchos distribuidos alrededor de la cintura. En el costado derecho posee un acople del que sale un cable rematado en un mango con botón detonador, además de una pequeña varilla lateral que puede girarse. Su función principal es alterar la percepción temporal del usuario. Al presionar el botón, el tiempo se detiene durante cuatro segundos fijos. Durante esa detención, el usuario no puede moverse ni recibir nuevas imágenes del entorno, pero su mente y su alma siguen activas, de modo que conserva la última imagen percibida y puede analizarla, pensar y extraer detalles con mayor profundidad. La varilla lateral permite modificar la velocidad subjetiva a la que el usuario percibe el paso del tiempo. Puede hacer que el entorno se sienta mucho más lento o mucho más rápido, pero no altera el tiempo real ni vuelve al usuario físicamente más veloz. Lo que cambia es la relación entre la mente del usuario y el flujo temporal del resto de la realidad. Su mayor riesgo aparece cuando esa percepción se ralentiza demasiado: el usuario puede quedar atrapado durante una cantidad descomunal de tiempo subjetivo antes de lograr revertir el efecto, lo que puede destruir su mente. Por eso, para una detención temporal breve y segura, resulta más estable usar directamente el botón. No requiere vínculo especial: cualquier persona que lo lleve puesto puede activarlo.
-- **Slime key**: artefacto menor del segundo universo con un mango negro mate del que emerge una masa viscosa especializada en adaptarse a mecanismos de cierre. Su función es actuar como una llave universal para bloqueos físicos: candados, cerraduras, puertas selladas y sistemas equivalentes. Al activar su primer mecanismo, esta masa se expande y se amolda a la estructura del cierre, ya sea introduciéndose en una cerradura, cubriendo un sello o envolviendo la superficie que impide la apertura. Cuando termina de ajustarse, el segundo mecanismo la reconfigura en la llave exacta para desbloquearlo. No depende de que el usuario entienda qué está bloqueado: el artefacto puede reconocer por sí mismo la presencia de un cierre. No funciona sobre barreras abstractas, promesas, bloqueos mentales ni condiciones no físicas. No tiene límite de complejidad, pero sí de volumen: puede expandirse a una escala muy amplia, aunque no infinita. El tiempo de adaptación depende del tamaño del bloqueo, no de su dificultad.
+- Los artefactos son objetos excepcionales que sobreviven de universos anteriores o fueron creados directamente por el creador en condiciones únicas.
+- La categoría de artefacto no equivale a cualquier objeto artificial que manipule esencia.
+- Los artefactos mayores corresponden a la tríada central creada por el creador: Dodecaedro, Máscara y Armadura.
+- Los artefactos menores son objetos de origen excepcional que sobrevivieron al renacer universal o persisten de un universo a otro.
+- El desarrollo completo de las reglas metafísicas de los artefactos pertenece a `01_Biblia_de_mundo.md`.
 
 ---
 
-## 3. Artefactos listados en Legacy
+## 2. Artefactos mayores
 
-Artefactos mayores:
-- El dodecaedro (the god seed, Aurelia's Bind)
-- La mascara
-- La armadura
+### 2.1. Dodecaedro
 
-Artefactos menores:
-- La marca
-- Modulo NES
-- Traje de sonido
-- Traje blanco
-- Infinity pistol
-- The first stone
-- The contract
-- Cinturon temporal
-- Dispensador de deseos
-- Chain dagger
-- Slime key
-- Eclipse Ring
+- Clasificación: artefacto mayor.
+- Nombres alternativos: *The God Seed*, *Aurelia's Bind*.
+- Origen: creado por el creador.
+- Función resumida: eje hiperdimensional de la realidad y estructura central para ordenar y manipular la esencia en su totalidad.
+- Relación con las facetas: contiene o articula los núcleos elementales de las facetas.
+- Estado narrativo actual: pendiente de definir en relación con la trama principal. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+### 2.2. Máscara
+
+- Clasificación: artefacto mayor.
+- Origen: creada por el creador a partir de su conciencia original.
+- Función resumida: repositorio de memoria, conciencia y conocimiento; puede sincronizarse con sus portadores.
+- Estado inactivo: máscara negra, lisa y sin rasgos.
+- Estado activo: puede mostrar líneas grises móviles asociadas a una conciencia activa.
+- Estado narrativo inicial: encontrada bajo la Garganta en estado inactivo.
+- Conocimiento inicial de la protagonista: solo conoce su apariencia; no sabe que es un artefacto mayor ni que fue creada por el creador.
+- Relación con otros artefactos: está vinculada a la Armadura.
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+- Pendientes:
+  - Definir cuándo y por qué la protagonista se pone la Máscara. [PENDIENTE]
+  - Definir la conexión específica de largo plazo entre la protagonista y la Máscara. [PENDIENTE]
+
+### 2.3. Armadura
+
+- Clasificación: artefacto mayor.
+- Origen: creada por el creador.
+- Función resumida: cuerpo de la Máscara y artefacto independiente de protección, construcción y combate.
+- Formas principales: cristal, humo, armadura sólida y constructo.
+- Modos principales: modo cristal, modo normal y modo combate.
+- Relación con otros artefactos: funciona como cuerpo de la Máscara, aunque también puede usarse de forma independiente.
+- Estado narrativo actual: pendiente de definir en relación con la trama principal. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+---
+
+## 3. Artefactos menores
+
+### 3.1. La marca
+
+- Clasificación: artefacto menor.
+- Origen: segundo universo.
+- Faceta principal: anímica.
+- Forma resumida: tatuaje metafísico inscrito en el alma, visible como runa dorada en la palma cuando se manifiesta.
+- Función resumida: permite crear clones físicos completos del portador y reintegrar sus experiencias.
+- Riesgo principal: acumulación de vidas paralelas, pérdida de continuidad personal, desorientación o psicosis.
+- Estado narrativo actual: pendiente de definir. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+### 3.2. Módulo N.E.S.
+
+- Clasificación: artefacto menor.
+- Nombre completo: *Noetic Expansion Seed*.
+- Origen: primer universo.
+- Entidad asociada: Nes.
+- Forma resumida: módulo físico principal y repositorio central de Nes.
+- Función resumida: núcleo físico principal de una IAG distribuida de escala casi universal.
+- Estado narrativo actual: pendiente de definir. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md` y `04_Personajes.md`.
+
+### 3.3. Traje del sonido
+
+- Clasificación: artefacto menor.
+- Origen: segundo universo.
+- Facetas principales: psíquica y aire.
+- Forma resumida: traje cubierto de parlantes distribuidos por el cuerpo.
+- Función resumida: traduce la intención del usuario en una emisión persuasiva que afecta la mente racional del receptor.
+- Límite principal: afecta entidades con alma dentro del primer nivel existencial.
+- Estado narrativo actual: pendiente de definir. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+### 3.4. Traje blanco
+
+- Clasificación: artefacto menor.
+- Origen: segundo universo.
+- Faceta principal: sangre.
+- Forma resumida: disco blanco en reposo; traje simbiótico blanco con líneas negras al activarse.
+- Función resumida: regeneración biológica extrema y mutación mediante ADN.
+- Límite principal: solo funciona plenamente en seres cuyo cuerpo esté regido principalmente por la faceta de sangre.
+- Estado narrativo actual: pendiente de definir. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+### 3.5. Infinity Pistol
+
+- Clasificación: artefacto menor.
+- Origen: segundo universo.
+- Forma resumida: pistola futurista.
+- Función resumida: cristaliza la esencia del entorno y la dispara como munición infinita.
+- Uso principal: proyectiles definidos por la faceta predominante en el entorno inmediato.
+- Estado narrativo actual: pendiente de definir. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+### 3.6. The Contract
+
+- Clasificación: artefacto menor.
+- Origen: segundo universo.
+- Faceta principal: anímica.
+- Forma resumida: pergamino antiguo con brillo dorado tenue.
+- Función resumida: contrato metafísico vinculante entre dos firmantes voluntarios.
+- Límite principal: funciona plenamente sobre entidades del primer y segundo nivel de existencia.
+- Estado narrativo actual: pendiente de definir. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+### 3.7. Cinturón temporal
+
+- Clasificación: artefacto menor.
+- Origen: segundo universo.
+- Faceta principal: espacio-tiempo.
+- Forma resumida: cinturón gris con cartuchos y mecanismo detonador.
+- Función resumida: altera la percepción temporal del usuario y permite una detención breve del tiempo percibido.
+- Riesgo principal: destrucción mental por exposición a cantidades extremas de tiempo subjetivo.
+- Estado narrativo actual: pendiente de definir. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+### 3.8. Slime key
+
+- Clasificación: artefacto menor.
+- Origen: segundo universo.
+- Forma resumida: mango negro mate del que emerge una masa viscosa adaptable.
+- Función resumida: llave universal para bloqueos físicos.
+- Límite principal: no funciona sobre barreras abstractas, promesas, bloqueos mentales ni condiciones no físicas.
+- Estado narrativo actual: pendiente de definir. [PENDIENTE]
+- Desarrollo completo: ver `01_Biblia_de_mundo.md`.
+
+---
+
+## 4. Artefactos listados en Legacy pendientes de canonización
+
+### 4.1. Artefactos mayores listados en Legacy
+
+- Dodecaedro (*The God Seed*, *Aurelia's Bind*).
+- Máscara.
+- Armadura.
+
+### 4.2. Artefactos menores listados en Legacy
+
+- La marca.
+- Módulo N.E.S.
+- Traje del sonido.
+- Traje blanco.
+- Infinity Pistol.
+- The First Stone. [PENDIENTE]
+- The Contract.
+- Cinturón temporal.
+- Dispensador de deseos. [PENDIENTE]
+- Chain dagger. [PENDIENTE]
+- Slime key.
+- Eclipse Ring. [PENDIENTE]
+
+---
+
+## 5. Pendientes generales
+
+- Definir estado narrativo actual de cada artefacto.
+- Definir qué artefactos aparecerán en la trama principal.
+- Definir cuáles artefactos del Legacy serán canonizados, modificados o descartados.
+- Definir nombres canon finales para artefactos que todavía usan nombres funcionales o heredados del Legacy.
+
