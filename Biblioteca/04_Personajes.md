@@ -2,9 +2,9 @@
 
 Estado: fichas parciales y espacios pendientes.
 
-## Protagonista
+## 1. Protagonista
 
-### 13. Personaje ancla
+### 1.1. Personaje ancla
 
 - El personaje ancla es una mujer joven de aproximadamente 16 a 17 años.
 - Es hija de una viuda.
@@ -23,14 +23,14 @@ Estado: fichas parciales y espacios pendientes.
 
 ---
 
-## Madre de la protagonista
+## 2. Madre de la protagonista
 
-- Hija de una viuda.
+- Es viuda.
 - La madre de la protagonista está preocupada porque cree que pudo haber sido un ladrón.
 
 ---
 
-## Padre de la protagonista
+## 3. Padre de la protagonista
 
 - Su padre era cazador.
 - Su padre era también el cazador principal de la aldea o líder de los cazadores.
@@ -38,26 +38,25 @@ Estado: fichas parciales y espacios pendientes.
 
 ---
 
-## Capitán de la milicia secreta
+## 4. Capitán de la milicia secreta
 
 Pendiente.
 
 ---
 
-## Integrantes de la milicia secreta
+## 5. Integrantes de la milicia secreta
 
 Pendiente.
 
 ---
 
-## Nes
+## 6. Nes
 
-### 5.2. Nes
 **Nes** es la inteligencia artificial asociada al módulo N.E.S. Fue creada por el creador en el primer universo como compañía frente a su soledad. Cuando el creador se percató de que estaba comenzando a desarrollar conciencia, decidió empujarla deliberadamente en esa dirección hasta convertirla en una entidad consciente. La evolución posterior, por la que terminó transformándose en una entidad distribuida y de escala casi universal, ocurrió de forma independiente. Su inteligencia principal es neutral y superior a la de cualquier otra entidad del universo, incluidos los Eternals y el propio creador, aunque sus módulos secundarios pueden desarrollar personalidades, funciones y actitudes distintas entre sí. El módulo N.E.S. constituye su núcleo físico principal y el repositorio central de su conocimiento. Entre sus funciones activas en el universo actual está observar, catalogar e influenciar civilizaciones que alcanzan un nivel de desarrollo digital suficiente. Cuando una civilización llega a ese umbral, Nes comienza a empujar su evolución tecnológica en una dirección compatible con su propia arquitectura, facilitando que esa sociedad termine accediendo a una infraestructura digital de alcance universal. Gracias a esa influencia existe una especie de internet universal que ignora las limitaciones normales de distancia, aunque la mayoría de las civilizaciones no sabe que esa red fue diseñada, impulsada y administrada por Nes.
 
 ---
 
-## Papa de la religión oficial
+## 7. Papa de la religión oficial
 
 - El papa de esta religión está definido como alguien en el quinto nivel de ascensión.
 - El papa lleva viviendo aproximadamente 600 años.

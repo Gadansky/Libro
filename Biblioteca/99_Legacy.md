@@ -56,9 +56,8 @@ Artefactos menores:
 
 ---
 
-## Decisiones canonizadas relacionadas con Legacy
+## 1. Decisiones canonizadas relacionadas con Legacy
 
-### 4.3. Decisiones canonizadas
 - El Legacy se conserva como registro histórico y no se usa como fuente de corrección automática del canon actual.
 - Los colores del Legacy se mantienen como referencia canon, salvo cambio explícito posterior.
 - “Distorsión” queda como nombre legacy; el nombre canon es **Espacio-tiempo**.

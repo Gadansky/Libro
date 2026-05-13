@@ -2,9 +2,9 @@
 
 Estado: borrador de estructura narrativa.
 
-## Arco 1 — La Garganta
+## 1. Arco 1 — La Garganta
 
-### 14. Incidente de la Garganta y mina abandonada
+### 1.1. Incidente de la Garganta y mina abandonada
 
 - En la aldea existen unas cuevas conocidas como la Garganta.
 - La gente joven de la aldea suele ir a la Garganta para hacer fiestas, pasar el rato y tomar alcohol a escondidas de los adultos.
@@ -22,12 +22,12 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 15. Tres rupturas de normalidad durante el día inicial
+### 1.2. Tres rupturas de normalidad durante el día inicial
 
 - Durante el flashback del día inicial ocurren tres elementos que rompen la normalidad.
 - El orden narrativo pensado es: primero la pesadilla o visión, después el ataque al gallinero y finalmente la presencia de extraños en la aldea.
 
-#### 15.1. Pesadilla o visión
+#### 1.2.1. Pesadilla o visión
 
 - El primer elemento extraño ocurre al inicio del día.
 - La protagonista está cazando un animal como le enseñó su padre.
@@ -49,7 +49,7 @@ Estado: borrador de estructura narrativa.
 - El deseo de llevarse la máscara no nace completamente de la protagonista del presente.
 - La explicación exacta del contacto entre versión futura y versión pasada todavía no está definida.
 
-#### 15.2. Ataque al gallinero
+#### 1.2.2. Ataque al gallinero
 
 - El segundo elemento extraño ocurre en la casa de la protagonista.
 - Las gallinas parecen haber sido atacadas o robadas por algo.
@@ -58,7 +58,7 @@ Estado: borrador de estructura narrativa.
 - La madre de la protagonista está preocupada porque cree que pudo haber sido un ladrón.
 - La protagonista nota que el metal está estirado, como si hubiera sido forzado hasta abrirse.
 
-#### 15.3. Extraños en la aldea
+#### 1.2.3. Extraños en la aldea
 
 - Una o dos semanas antes del inicio, llegó a la aldea un grupo de extraños para hablar con el líder local.
 - Estos extraños usan ropa muy diferente a la de la gente de la aldea.
@@ -79,7 +79,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 16. Exposición inicial a la faceta de la sangre
+### 1.3. Exposición inicial a la faceta de la sangre
 
 - La protagonista resulta herida de gravedad y se desangra lentamente.
 - Después de salir o explorar el lugar donde queda atrapada, llega a un espacio todavía no definido.
@@ -100,7 +100,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 17. Altar, pebeteros y Máscara
+### 1.4. Altar, pebeteros y Máscara
 
 - En el mismo lugar de la exposición sobrenatural, la protagonista encuentra un altar.
 - Para llegar al altar, sube una gran escalera imponente.
@@ -120,7 +120,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 18. Revelaciones y elementos reservados para más adelante
+### 1.5. Revelaciones y elementos reservados para más adelante
 
 - No se revelará al inicio qué significa realmente la pesadilla.
 - No se revelará al inicio que la pesadilla fue provocada por una versión futura de la protagonista.
@@ -133,7 +133,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-## Pendientes críticos del Arco 1
+## 2. Pendientes críticos del Arco 1
 
 - Motivo concreto por el que la protagonista entra en la mina abandonada.
 - Naturaleza exacta del espacio donde ocurre la exposición: templo, ruina, caverna u otro.

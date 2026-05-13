@@ -2,7 +2,7 @@
 
 Estado: canon narrativo inicial / borrador funcional.
 
-## Punto de inicio narrativo
+## 1. Punto de inicio narrativo
 
 - Época / tipo de mundo: Mundo imperial con tecnología desigual. El imperio central tiene avances equivalentes o superiores a una revolución industrial avanzada, con centros urbanos cercanos a un futuro alternativo essencepunk; la aldea inicial, en cambio, funciona con tecnología rural, analógica y atrasada, cercana a los siglos XVIII-XIX.
 
@@ -24,9 +24,8 @@ Estado: canon narrativo inicial / borrador funcional.
 
 ---
 
-## Tecnología y desarrollo desigual
+## 2. Tecnología y desarrollo desigual
 
-### 6. Tecnología y desarrollo desigual
 
 - En los últimos 90 años, el imperio ha experimentado muchos avances tecnológicos similares a una revolución industrial.
 - El nivel tecnológico general del mundo y del imperio puede compararse aproximadamente con la década de 1970: inicios de internet, computadoras en desarrollo, autos, armas, pólvora y avances similares.
@@ -41,9 +40,8 @@ Estado: canon narrativo inicial / borrador funcional.
 
 ---
 
-## Conocimiento público sobre escencia y ascensión
+## 3. Conocimiento público sobre escencia y ascensión
 
-### 7. Conocimiento público sobre escencia y ascensión
 
 - La gente común no sabe qué es la escencia.
 - La gente común no sabe qué es la ascensión.
@@ -65,9 +63,8 @@ Estado: canon narrativo inicial / borrador funcional.
 
 ---
 
-## Sobrenaturalidad, rumores e incidentes recientes
+## 4. Sobrenaturalidad, rumores e incidentes recientes
 
-### 8. Sobrenaturalidad, rumores e incidentes recientes
 
 - En el mundo existen rumores, mitos, leyendas, religiones y supersticiones relacionadas con lo sobrenatural.
 - La persona común desconoce que lo sobrenatural es real.

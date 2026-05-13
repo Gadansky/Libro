@@ -1,8 +1,6 @@
-# Biblia de mundo v2
+# Biblia de mundo
 
 Estado: canon vigente.
-
-Origen: reorganización de `Biblia de mundo v1.md`; el bloque Legacy inicial fue trasladado a `99_Legacy.md`.
 
 ## 1. Fundamentos de la realidad
 

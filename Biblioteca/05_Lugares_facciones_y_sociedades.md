@@ -2,9 +2,8 @@
 
 Estado: mezcla de canon inicial y borrador de expansión.
 
-## Geografía planetaria
+## 1. Geografía planetaria
 
-### 1. Geografía planetaria
 
 - El planeta todavía no tiene nombre decidido.
 - La geología general contempla un supercontinente central y cuatro continentes ubicados hacia los puntos cardinales: norte, sur, este y oeste.
@@ -21,9 +20,8 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## Continente central e Imperio
+## 2. Continente central e Imperio
 
-### 2. Continente central e Imperio
 
 - El reino principal es en realidad un imperio.
 - El imperio conquistó todo el continente central hace aproximadamente 1200 años.
@@ -40,9 +38,8 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## Región oriental del continente central
+## 3. Región oriental del continente central
 
-### 3. Región oriental del continente central
 
 - La historia inicia en la parte más oriental del continente central.
 - Esta región está muy lejos de la capital imperial, ubicada en la zona central del imperio y del continente.
@@ -53,9 +50,8 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## Aldea inicial
+## 4. Aldea inicial
 
-### 4. Aldea inicial
 
 - La ciudad inicial es en realidad un pequeño pueblo rural.
 - La aldea tiene no más de 300 habitantes.
@@ -71,9 +67,8 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## Bosque Crepuscular
+## 5. Bosque Crepuscular
 
-### 5. Bosque Crepuscular
 
 - En la región oriental existe un bosque enorme, de tamaño comparable al de un país, llamado Bosque Crepuscular.
 - El Bosque Crepuscular recibe su nombre porque la corrupción de la escencia de la realidad, proveniente del continente del este, se expande constantemente y ha corrompido la zona.
@@ -88,9 +83,7 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## La Garganta y mina abandonada
-
-### 14. Incidente de la Garganta y mina abandonada
+## 6. La Garganta y mina abandonada
 
 - En la aldea existen unas cuevas conocidas como la Garganta.
 - La gente joven de la aldea suele ir a la Garganta para hacer fiestas, pasar el rato y tomar alcohol a escondidas de los adultos.
@@ -108,9 +101,8 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## Élites políticas
+## 7. Élites políticas
 
-### 9. Élites políticas
 
 - Las élites políticas conocen la escencia y la ascensión.
 - La gran mayoría de sus miembros son usuarios de escencia en algún nivel.
@@ -121,9 +113,8 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## Élites religiosas
+## 8. Élites religiosas
 
-### 10. Élites religiosas
 
 - La religión oficial del imperio todavía no está completamente definida.
 - La idea actual es que exista una sola religión aceptada oficialmente dentro del imperio.
@@ -139,9 +130,8 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## Ejército común y ejército secreto
+## 9. Ejército común y ejército secreto
 
-### 11. Ejército común y ejército secreto
 
 - La mayoría del ejército común desconoce la existencia y funcionamiento de la escencia.
 - La mayoría de los millones de soldados del imperio no tiene acceso a ese conocimiento.
@@ -157,9 +147,8 @@ Estado: mezcla de canon inicial y borrador de expansión.
 
 ---
 
-## Élites académicas e instituciones de escencia
+## 10. Élites académicas e instituciones de escencia
 
-### 12. Élites académicas e instituciones de escencia
 
 - La élite académica está compuesta por personas que destacan por rigurosidad, excelencia y resultados que les permiten entrar a instituciones relacionadas con el estudio de la escencia.
 - Existe una universidad en la capital dedicada específicamente al estudio de la escencia.

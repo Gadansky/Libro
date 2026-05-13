@@ -2,9 +2,8 @@
 
 Estado: borrador de desarrollo tecnológico.
 
-## Tecnología y desarrollo desigual
+## 1. Tecnología y desarrollo desigual
 
-### 6. Tecnología y desarrollo desigual
 
 - En los últimos 90 años, el imperio ha experimentado muchos avances tecnológicos similares a una revolución industrial.
 - El nivel tecnológico general del mundo y del imperio puede compararse aproximadamente con la década de 1970: inicios de internet, computadoras en desarrollo, autos, armas, pólvora y avances similares.
@@ -19,9 +18,8 @@ Estado: borrador de desarrollo tecnológico.
 
 ---
 
-## Conocimiento público sobre escencia y ascensión
+## 2. Conocimiento público sobre escencia y ascensión
 
-### 7. Conocimiento público sobre escencia y ascensión
 
 - La gente común no sabe qué es la escencia.
 - La gente común no sabe qué es la ascensión.
@@ -43,16 +41,16 @@ Estado: borrador de desarrollo tecnológico.
 
 ---
 
-## Tecnología de observación imperial
+## 3. Tecnología de observación imperial
 
 - La capital tiene algún tipo de sistema de observación, quizá similar a un satélite, para revisar lo que está ocurriendo.
 - Ese sistema de observación todavía debe definirse mejor.
 
 ---
 
-## Ingeniería de escencia
+## 4. Ingeniería de escencia
 
-### 12. Élites académicas e instituciones de escencia
+### 4.1. Élites académicas e instituciones de escencia
 
 - La élite académica está compuesta por personas que destacan por rigurosidad, excelencia y resultados que les permiten entrar a instituciones relacionadas con el estudio de la escencia.
 - Existe una universidad en la capital dedicada específicamente al estudio de la escencia.

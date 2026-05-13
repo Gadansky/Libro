@@ -2,9 +2,8 @@
 
 Estado: backlog / pendientes / ideas no cerradas.
 
-## Pendientes explícitos de definición
+## 1. Pendientes explícitos de definición
 
-### 19. Pendientes explícitos de definición
 
 - Nombre del planeta.
 - Nombres definitivos de las criaturas marinas gigantes.
@@ -31,9 +30,8 @@ Estado: backlog / pendientes / ideas no cerradas.
 
 ---
 
-## Dudas abiertas de la Biblia de mundo v1
+## 2. Dudas abiertas de la Biblia de mundo
 
-### 4.4. Dudas abiertas
 - Definir si “Glitter” se mantiene como término documental, coloquial o histórico.
 - Desarrollar la lógica completa de las dimensiones adyacentes y su relación con fuego, hielo y espacio-tiempo.
 - Precisar terminología final para ciertos fenómenos emergentes derivados de facetas, cuando sea necesario.
@@ -41,11 +39,9 @@ Estado: backlog / pendientes / ideas no cerradas.
 
 ---
 
-## Pendientes de desarrollo de la Biblia de mundo v1
+## 3. Pendientes de desarrollo de la Biblia de mundo
 
-## 6. Pendientes de desarrollo
-
-### 6.1. Partes ya claras
+### 3.1. Partes ya claras
 - Escencia de la realidad.
 - Estructura general de las facetas.
 - Las catorce facetas: tierra, agua, fuego, aire, sangre, naturaleza, hielo, metal, luz, oscuridad, anímica, psíquica, electricidad y espacio-tiempo.
@@ -55,19 +51,19 @@ Estado: backlog / pendientes / ideas no cerradas.
 - Definición base de los tres artefactos mayores.
 - Definición base de la marca, del módulo N.E.S., del traje del sonido, del traje blanco y de la Infinity Pistol como artefactos menores.
 
-### 6.2. Partes borrosas
+### 3.2. Partes borrosas
 - Desarrollo detallado de la interacción entre facetas en fenómenos compuestos.
 - Funcionamiento completo del vacío como fenómeno compuesto.
 - Alcance fino de ciertas dimensiones adyacentes al universo.
 
-### 6.3. Partes faltantes
+### 3.3. Partes faltantes
 - Artefactos menores restantes en versión canon expandida.
 - Cosmología detallada.
 - Dimensiones del universo.
 - Historia macro.
 - Sociedades, culturas y conflicto.
 
-### 6.4. Próximos pasos
+### 3.4. Próximos pasos
 - Profundizar faceta por faceta donde aún falte detalle funcional.
 - Documentar dimensiones del universo y fenómenos compuestos.
 - Expandir artefactos, cosmología e historia macro.
