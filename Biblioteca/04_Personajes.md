@@ -127,7 +127,7 @@ Estado: fichas parciales y espacios pendientes.
 - Definir personalidad.
 - Definir rango exacto dentro del ejército secreto.
 - Definir si posee conocimiento o capacidad de ascensión.
-- Definir qué sabe realmente al inicio del Arco 2.
+- Definir qué sabe realmente al inicio del Capítulo 2 del Arco 1.
 
 ---
 

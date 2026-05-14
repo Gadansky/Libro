@@ -51,7 +51,7 @@ Estado: backlog / pendientes / ideas no cerradas.
 
 - Definir nombre, edad aproximada, personalidad y rango exacto del capitán del ejército secreto.
 - Definir si el capitán posee conocimiento o capacidad de ascensión.
-- Definir qué sabe realmente el capitán al inicio del Arco 2.
+- Definir qué sabe realmente el capitán al inicio del Capítulo 2 del Arco 1.
 - Definir los cuatro integrantes del equipo del ejército secreto.
 - Definir roles internos, capacidades y nivel de conocimiento de los integrantes del ejército secreto.
 

@@ -560,3 +560,11 @@ Estos pendientes pueden permanecer como información reservada, desarrollo futur
 - No se revelará al inicio la causa real del temblor.
 - No se revelará al inicio que la lesión de hielo de la protagonista es una corrupción permanente de su esencia corporal.
 - No se revelará al inicio que la faceta de largo plazo de la protagonista será hielo.
+
+---
+
+### 1.5. Capítulo 2 — [PENDIENTE]
+
+- El Capítulo 2 continúa el Arco 1 a partir de la llegada del capitán del ejército secreto a la casa de la protagonista.
+- Su función será desarrollar las consecuencias inmediatas del Capítulo 1: la investigación del ejército secreto, la situación de la protagonista, la Máscara oculta, la herida de hielo y la ruptura progresiva de la normalidad local.
+- El contenido específico todavía está pendiente. [PENDIENTE]

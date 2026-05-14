@@ -8,7 +8,7 @@ Estado: documento de trabajo, no canon.
 - El proyecto ya cuenta con una base narrativa inicial más clara: protagonista ancla, presente narrativo, aldea inicial, Capítulo 1 dentro del Arco 1, lugares principales, facciones iniciales y conflicto de entrada.
 - La estructura documental del proyecto está más ordenada: presente narrativo, arcos, personajes, lugares, tecnología, artefactos y backlog cumplen funciones más diferenciadas.
 - El mayor riesgo actual ya no es la falta absoluta de punto de entrada humano, sino seguir expandiendo sistema global sin desarrollar la continuidad narrativa posterior al Capítulo 1.
-- Las áreas que requieren mayor desarrollo son la estructura del Arco 2, la continuidad posterior a la llegada del capitán del ejército secreto, la religión oficial, la tecnología de esencia, la línea temporal macro y el funcionamiento institucional detallado del Imperio.
+- Las áreas que requieren mayor desarrollo son la estructura del Capítulo 2 del Arco 1, la continuidad posterior a la llegada del capitán del ejército secreto, la religión oficial, la tecnología de esencia, la línea temporal macro y el funcionamiento institucional detallado del Imperio.
 
 ---
 
@@ -120,7 +120,7 @@ Estado: documento de trabajo, no canon.
 
 ### 4.1. Continuidad narrativa
 
-- Falta desarrollar el Arco 2 y la continuidad posterior a la llegada del capitán del ejército secreto.
+- Falta desarrollar el Capítulo 2 del Arco 1 y la continuidad posterior a la llegada del capitán del ejército secreto.
 - Falta definir antagonismo principal o fuerza opositora de mediano/largo plazo.
 - Falta definir cómo la protagonista pasa de experiencia local a conflicto mayor.
 - Falta definir cuándo y por qué la protagonista se pone la Máscara.
@@ -273,8 +273,8 @@ Estado: documento de trabajo, no canon.
 
 ### 7.3. Arcos narrativos
 
-- Arco 2.
-- Continuidad después de la llegada del capitán.
+- Capítulo 2 del Arco 1.
+- Continuidad del Arco 1 después de la llegada del capitán.
 - Transición desde conflicto local hacia conflicto mayor.
 - Antagonismo o fuerza opositora de mediano/largo plazo.
 
@@ -329,14 +329,14 @@ Estado: documento de trabajo, no canon.
   - integrar corrupción por exposición facetaria;
   - integrar deterioro por saturación del núcleo.
 - Revisar que los documentos descargados durante la sesión mantengan coherencia entre sí.
-- Preparar el desarrollo del Arco 2 desde la llegada del capitán del ejército secreto.
+- Preparar el desarrollo del Capítulo 2 del Arco 1 desde la llegada del capitán del ejército secreto.
 
 ### 8.2. Prioridad de corto plazo
 
 - Resolver los pendientes internos restantes del Capítulo 1.
 - Definir personajes principales del entorno inicial.
 - Profundizar el capitán y el equipo del ejército secreto.
-- Definir la estructura inicial del Arco 2.
+- Definir la estructura inicial del Capítulo 2 del Arco 1.
 
 ### 8.3. No priorizar todavía
 
@@ -353,7 +353,7 @@ Estado: documento de trabajo, no canon.
   - uso de “esencia” sin C;
   - corrupción por exposición facetaria;
   - deterioro por saturación del núcleo.
-- Después, comenzar el desarrollo del Arco 2 a partir de la llegada del capitán del ejército secreto.
+- Después, comenzar el desarrollo del Capítulo 2 del Arco 1 a partir de la llegada del capitán del ejército secreto.
 
 ---
 
