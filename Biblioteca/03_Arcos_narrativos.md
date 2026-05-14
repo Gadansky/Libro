@@ -2,22 +2,26 @@
 
 Estado: borrador de estructura narrativa.
 
-## 1. Arco 1 — La Garganta
+## 1. Arco 1
 
-### 1.1. Función del arco
+- Este arco contiene el Capítulo 1 — La Garganta como primera unidad narrativa desarrollada.
 
-- El Arco 1 funciona como arco de entrada al mundo sobrenatural.
+### 1.1. Capítulo 1 — La Garganta
+
+#### 1.1.1. Función del capítulo dentro del arco
+
+- El Capítulo 1 — La Garganta funciona como capítulo de entrada al mundo sobrenatural dentro del Arco 1.
 - La protagonista comienza como una joven común de una aldea rural aislada.
 - La normalidad se rompe mediante una cadena de incidentes: pesadilla o visión, ataque al gallinero, presencia de extraños en la aldea, fiesta en la Garganta, entrada a la mina, caída, regeneración, hallazgo de la Máscara y encuentro con una entidad de hielo.
-- El arco debe mantener separadas tres capas de información:
+- El capítulo debe mantener separadas tres capas de información:
   - Lo que vive y entiende la protagonista.
   - Lo que saben o sospechan los extraños.
   - Lo que la autora sabe como verdad estructural, pero no se revela todavía.
-- El cierre del arco ocurre cuando el capitán del ejército secreto entra a la casa de la protagonista varios días después del accidente.
+- El cierre del capítulo ocurre cuando el capitán del ejército secreto entra a la casa de la protagonista varios días después del accidente.
 
 ---
 
-### 1.2. Pesadilla o visión inicial
+#### 1.1.2. Pesadilla o visión inicial
 
 - El primer elemento extraño ocurre al inicio del día.
 - La protagonista está cazando un animal como le enseñó su padre.
@@ -33,7 +37,7 @@ Estado: borrador de estructura narrativa.
 - Le sangran los ojos, los oídos, la nariz y la boca.
 - Grita hacia el cielo y despierta como si saliera de una pesadilla, completamente alterada.
 
-#### Nota estructural reservada
+##### Nota estructural reservada
 
 - Más adelante se revelará que no fue un sueño común ni una experiencia aleatoria.
 - La explicación futura pensada es que la pesadilla fue provocada por una versión futura de la protagonista.
@@ -44,7 +48,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.3. Mañana del incidente: ataque al gallinero
+#### 1.1.3. Mañana del incidente: ataque al gallinero
 
 - La protagonista despierta después de la pesadilla o visión y comienza su rutina diaria.
 - Su madre le grita desde el primer piso para que baje.
@@ -63,7 +67,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.4. Recorrido por la aldea
+#### 1.1.4. Recorrido por la aldea
 
 - Después del ataque al gallinero, la protagonista sale a recorrer la aldea.
 - Esta parte permite mostrar la estructura de la aldea, su organización y elementos cotidianos del mundo.
@@ -84,7 +88,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.5. Tarde de quehaceres
+#### 1.1.5. Tarde de quehaceres
 
 - La protagonista vuelve a la casa y habla de nuevo con su madre.
 - Su madre le dice que ya llegó alguien de la Guardia Ciudadana y que le dijeron que estaban investigando el ataque al gallinero. [PENDIENTE: nombre definitivo de la institución]
@@ -98,17 +102,17 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.6. Los extraños en la aldea
+#### 1.1.6. Los extraños en la aldea
 
-#### 1.6.1. Excusa pública
+##### 1.1.6.1. Excusa pública
 
-- Los extraños llegaron a la aldea aproximadamente dos semanas antes del inicio del arco.
+- Los extraños llegaron a la aldea aproximadamente dos semanas antes del inicio del capítulo.
 - La excusa pública es que están en la aldea por un problema de impuestos.
 - Le dicen al líder de la aldea que existe un problema con la contabilidad de los impuestos del dominio, es decir, del territorio controlado por el noble que gobierna esa parte de la región.
 - La versión oficial es que hubo un problema con los libros contables y que por eso están auditando distintas aldeas de la región.
 - La gente de la aldea no sabe la verdad completa.
 
-#### 1.6.2. Misión real
+##### 1.1.6.2. Misión real
 
 - La protagonista no sabe que los extraños son un equipo del ejército secreto.
 - No se trata de un escuadrón grande, sino de un equipo de cinco personas: un capitán y otros cuatro integrantes.
@@ -121,7 +125,7 @@ Estado: borrador de estructura narrativa.
 - Por eso, el equipo utiliza detectores y máquinas para analizar la zona y revisar si efectivamente hubo un movimiento artificial de esencia.
 - También están investigando las leyendas de la zona y los relatos antiguos relacionados con desapariciones o fenómenos extraños.
 
-#### 1.6.3. Lo que saben y lo que ignoran
+##### 1.1.6.3. Lo que saben y lo que ignoran
 
 - Los extraños creen entender que hubo reportes extraños y que deben investigar si esos hechos están ocurriendo solamente en esta aldea, en otra parte cercana o en una zona más amplia.
 - Todavía están en una etapa preliminar.
@@ -132,7 +136,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.7. Fiesta en la Garganta
+#### 1.1.7. Fiesta en la Garganta
 
 - Al atardecer, los amigos de la protagonista llegan a buscarla junto con otras tres o cuatro personas.
 - Todos van juntos hacia la Garganta.
@@ -162,7 +166,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.8. Entrada a la mina
+#### 1.1.8. Entrada a la mina
 
 - Después de la salida de los desconocidos, la fiesta continúa.
 - Una cosa lleva a la otra y surge la conversación de que, si los desconocidos entraron a la mina y no les pasó nada, quizá la mina no es tan peligrosa.
@@ -186,7 +190,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.9. Exploración de la mina y caída
+#### 1.1.9. Exploración de la mina y caída
 
 - A medida que camina, los gritos y ruidos de la fiesta se escuchan cada vez más lejanos.
 - Mientras más se adentra, más silencio encuentra.
@@ -219,7 +223,7 @@ Estado: borrador de estructura narrativa.
 - Finalmente, se golpea la cabeza y pierde la conciencia.
 - En la caída sufre una herida grave que la deja desangrándose.
 
-#### Nota estructural reservada
+##### Nota estructural reservada
 
 - La causa real del temblor fue una acción provocada por la versión futura de la protagonista. [REVISAR EN BIBLIA]
 - El terremoto se sintió en toda la región con una intensidad bastante alta.
@@ -233,9 +237,9 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.10. Cámara sellada, reliquias y Máscara
+#### 1.1.10. Cámara sellada, reliquias y Máscara
 
-#### 1.10.1. Naturaleza del espacio
+##### 1.1.10.1. Naturaleza del espacio
 
 - Debajo de la mina se encuentra el altar de la Máscara.
 - La línea temporal de este elemento todavía no está completamente establecida.
@@ -246,7 +250,7 @@ Estado: borrador de estructura narrativa.
 - La estructura de la cámara impide que el lugar sea detectado mediante tecnología, percepción natural de la esencia o Chainlinks de ascensión. [REVISAR EN BIBLIA]
 - Por eso, cuando alguien intenta detectar esencia en la zona, no detecta nada fuera de lo normal.
 
-#### 1.10.2. Reliquias de esencia
+##### 1.1.10.2. Reliquias de esencia
 
 - Los catorce pebeteros no son artefactos mayores ni menores.
 - Para evitar confusiones con los artefactos sobrevivientes de universos anteriores, los pebeteros pueden denominarse reliquias. [AFECTA A: 06_Tecnologia_y_esencia.md]
@@ -257,7 +261,7 @@ Estado: borrador de estructura narrativa.
 - Cuando la protagonista entra al lugar, se encienden catorce pebeteros en orden, uno tras otro.
 - Los pebeteros tienen fuego cuyo color corresponde a las facetas de la esencia.
 
-#### 1.10.3. Exposición a la faceta de sangre
+##### 1.1.10.3. Exposición a la faceta de sangre
 
 - La protagonista resulta herida de gravedad y se desangra lentamente.
 - En algún momento, pasa la mano cerca del fuego rojo o toca el fuego rojo.
@@ -276,7 +280,7 @@ Estado: borrador de estructura narrativa.
 - Todavía falta encontrar una mejor forma de describir esa imagen. [PENDIENTE]
 - La faceta de sangre permite su regeneración inicial, pero no queda definida como su conexión de largo plazo.
 
-#### 1.10.4. Hallazgo de la Máscara
+##### 1.1.10.4. Hallazgo de la Máscara
 
 - En el mismo lugar de la exposición sobrenatural, la protagonista encuentra un altar.
 - Para llegar al altar, sube una gran escalera imponente.
@@ -297,7 +301,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.11. Escape de la cámara subterránea
+#### 1.1.11. Escape de la cámara subterránea
 
 - Después de tomar la Máscara, la protagonista empieza a explorar la caverna con la Máscara guardada contra su pecho, debajo de la polera o prenda que lleva.
 - Cerca del lugar donde estaba la Máscara, encuentra una salida o acceso posterior.
@@ -311,7 +315,7 @@ Estado: borrador de estructura narrativa.
 - Sin embargo, antes de salir, empieza a sentir un presentimiento de terror.
 - La invade una ansiedad cada vez más intensa.
 
-#### 1.11.1. Persecución con el espectro de hielo
+##### 1.1.11.1. Persecución con el espectro de hielo
 
 - Antes de que el espectro se manifieste por completo, la protagonista siente que la temperatura del lugar baja de forma extremadamente rápida.
 - El frío aparece de golpe, con una intensidad antinatural.
@@ -351,7 +355,7 @@ Estado: borrador de estructura narrativa.
 - Si alguien estuviera abajo, mirando la montaña desde el exterior, no sería capaz de percibir que esa salida está ahí.
 - Por eso, no le sorprende que nadie la haya encontrado antes.
 
-#### Nota estructural: límite perceptivo del espectro
+##### Nota estructural: límite perceptivo del espectro
 
 - La criatura no puede salir al exterior, pero no porque exista una barrera física o mágica.
 - Lleva tanto tiempo existiendo dentro de esa zona que ya no es capaz de comprender que existe algo fuera de ella.
@@ -360,7 +364,7 @@ Estado: borrador de estructura narrativa.
 - Está atrapada en ese espacio por una limitación total de su percepción.
 - Esta explicación no se revela durante la escena.
 
-#### Nota estructural: origen del espectro de hielo
+##### Nota estructural: origen del espectro de hielo
 
 - Esta nota es para estructura interna y no forma parte de la información que la protagonista comprende durante la escena.
 - El espectro es una criatura muy antigua que ronda la caverna.
@@ -372,9 +376,9 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.12. Estado físico de la protagonista
+#### 1.1.12. Estado físico de la protagonista
 
-#### 1.12.1. Después de la regeneración por sangre
+##### 1.1.12.1. Después de la regeneración por sangre
 
 - Antes del encuentro con la criatura, la protagonista está en perfectas condiciones físicas.
 - Se sorprende de lo bien que se siente.
@@ -383,7 +387,7 @@ Estado: borrador de estructura narrativa.
 - La ropa está llena de sangre, y esa es la única evidencia visible de que tuvo una herida grave.
 - También tiene sangre en el pelo.
 
-#### 1.12.2. Después del encuentro con el espectro de hielo
+##### 1.1.12.2. Después del encuentro con el espectro de hielo
 
 - Después de escapar de la criatura, conserva una lesión extraña en el antebrazo derecho.
 - A simple vista parece una quemadura por frío severa, similar a congelación.
@@ -396,7 +400,7 @@ Estado: borrador de estructura narrativa.
 - La protagonista no sabe que esta marca va a cambiar su futuro.
 - La protagonista no sabe que la herida no va a sanar de forma natural.
 
-#### Nota estructural: faceta de largo plazo de la protagonista
+##### Nota estructural: faceta de largo plazo de la protagonista
 
 - La protagonista tendrá una sincronía futura con la faceta de hielo.
 - La herida del brazo no es solo física: es una corrupción permanente en su esencia corporal provocada por la faceta de hielo. [REVISAR EN BIBLIA]
@@ -409,7 +413,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.13. Regreso a la aldea
+#### 1.1.13. Regreso a la aldea
 
 - Después de salir por la parte posterior de la cueva, la protagonista baja y viaja hacia la aldea.
 - Al acercarse, nota que hay humo en varias partes y bastante destrucción causada por el terremoto.
@@ -428,7 +432,7 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.14. Máscara oculta
+#### 1.1.14. Máscara oculta
 
 - La Máscara sigue oculta en el pecho de la protagonista, debajo de la prenda que lleva.
 - La protagonista tiene un instinto o una sensación de que no debe revelársela a nadie.
@@ -448,7 +452,7 @@ Estado: borrador de estructura narrativa.
 - Ella no entiende qué es la Máscara, por qué estaba allí ni por qué la tomó.
 - Lo importante por ahora es que la mantiene oculta: nadie la ve y ella es la única que sabe de su existencia.
 
-#### Nota estructural: estado inactivo de la Máscara
+##### Nota estructural: estado inactivo de la Máscara
 
 - La Máscara está en estado inactivo.
 - En este estado no muestra las líneas grises móviles asociadas a una conciencia activa.
@@ -456,7 +460,7 @@ Estado: borrador de estructura narrativa.
 - La protagonista tampoco sabe que la Máscara es imposible de dañar por medios ordinarios.
 - En este momento, solo percibe que está anormalmente intacta y sin señales de deterioro.
 
-#### Conexión inicial entre la protagonista y la Máscara
+##### Conexión inicial entre la protagonista y la Máscara
 
 - Por ahora, la conexión consciente de la protagonista con la Máscara se limita a que sabe cómo se ve.
 - La protagonista no sabe que la Máscara es un artefacto mayor.
@@ -471,9 +475,9 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-### 1.15. Cierre del Arco 1
+#### 1.1.15. Cierre del Capítulo 1
 
-- El arco cierra varios días después, cuando la protagonista ya logró volver, entre comillas, a la normalidad.
+- El capítulo cierra varios días después, cuando la protagonista ya logró volver, entre comillas, a la normalidad.
 - Para ese momento ya se reencontró con sus amigos, y todos están felices de que haya logrado escapar por una salida secundaria.
 - Sin embargo, su explicación sobre lo ocurrido tiene lagunas.
 - Ella no cuenta toda la verdad porque siente que, si dice lo que realmente pasó, nadie le va a creer.
@@ -486,11 +490,11 @@ Estado: borrador de estructura narrativa.
 - La protagonista ve al capitán entrar por el marco de la puerta.
 - Ambos hacen contacto visual.
 - La protagonista piensa algo en ese momento. [PENDIENTE: definir pensamiento exacto]
-- Ahí termina el Arco 1.
+- Ahí termina el Capítulo 1.
 
 ---
 
-## 2. Información reservada del Arco 1
+### 1.2. Información reservada del Capítulo 1 dentro del Arco 1
 
 - La pesadilla o visión inicial no fue un sueño común.
 - La versión futura de la protagonista influyó en su versión pasada. [PENDIENTE] [REVISAR EN BIBLIA]
@@ -505,31 +509,31 @@ Estado: borrador de estructura narrativa.
 
 ---
 
-## 3. Pendientes reales del Arco 1
+### 1.3. Pendientes reales del Capítulo 1
 
-### 3.1. Pendientes narrativos internos de `03_Arcos_narrativos.md`
+#### 1.3.1. Pendientes narrativos internos de `03_Arcos_narrativos.md`
 
-Estos pendientes pertenecen directamente al cierre del Arco 1 dentro del documento de arcos y no requieren abrir otro archivo para resolverse.
+Estos pendientes pertenecen directamente al cierre del Capítulo 1 dentro del documento de arcos y no requieren abrir otro archivo para resolverse.
 
-- Definir el pensamiento exacto de la protagonista cuando hace contacto visual con el capitán al cierre del Arco 1.
+- Definir el pensamiento exacto de la protagonista cuando hace contacto visual con el capitán al cierre del Capítulo 1.
 - Encontrar una mejor formulación para describir las manos regeneradas de la protagonista después de la exposición a sangre.
 - Definir un término narrativo estable para el espacio bajo la mina. Recomendación pendiente: usar “cámara sellada” para el espacio general y “altar” para la estructura central donde está la Máscara.
 - Definir una descripción visual mínima del altar y la escalera, sin desarrollar todavía la ficha completa del lugar.
 
-Estos pendientes pueden permanecer como información reservada, desarrollo futuro o materia de otros documentos; no bloquean el cierre estructural del Arco 1 en `03`.
+Estos pendientes pueden permanecer como información reservada, desarrollo futuro o materia de otros documentos; no bloquean el cierre estructural del Capítulo 1 dentro del Arco 1 en `03`.
 
 - Definir la explicación exacta del contacto entre la versión futura y la versión pasada de la protagonista. [REVISAR EN BIBLIA]
 - Definir cuándo y por qué la protagonista se pone la Máscara. [PENDIENTE]
 - Definir por qué la protagonista siente una atracción instintiva hacia la Máscara. [PENDIENTE]
 - Definir el antecedente narrativo de por qué el espectro emerge desde el piso. [PENDIENTE]
 
-### 3.2. Pendientes de nombres y terminología
+#### 1.3.2. Pendientes de nombres y terminología
 
 - Nombre definitivo de la Guardia Civil o Guardia Ciudadana.
 - Definición del término “reliquias” para los catorce pebeteros como objetos artificiales de esencia, diferenciados de los artefactos mayores y menores. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - Corrección documental global del uso de “esencia” en todos los documentos activos. [AFECTA A: todos los documentos activos]
 
-### 3.3. Pendientes que afectan otros documentos
+#### 1.3.3. Pendientes que afectan otros documentos
 
 - Definir el dispositivo extraño usado por los desconocidos. [AFECTA A: 06_Tecnologia_y_esencia.md]
 - Definir el alcance exacto del sello de ocultamiento de la cámara frente a tecnología, percepción natural de esencia y Chainlinks de ascensión. [REVISAR EN BIBLIA]
@@ -543,7 +547,7 @@ Estos pendientes pueden permanecer como información reservada, desarrollo futur
 
 ---
 
-## 4. Elementos que no se revelan al inicio
+### 1.4. Elementos que no se revelan al inicio
 
 - No se revelará al inicio qué significa realmente la pesadilla.
 - No se revelará al inicio que la pesadilla fue provocada por una versión futura de la protagonista.

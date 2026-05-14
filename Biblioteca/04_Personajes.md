@@ -216,7 +216,7 @@ Estado: fichas parciales y espacios pendientes.
 - Definir si el espectro tendrá identidad, nombre o historia individual.
 - Definir si fue Chainlink 5, 6, 7 u 8 antes de su deterioro. [PENDIENTE]
 - Definir el antecedente narrativo de por qué emerge desde el piso. [PENDIENTE]
-- Definir si volverá a aparecer después del Arco 1.
+- Definir si volverá a aparecer después del Capítulo 1.
 
 ---
 

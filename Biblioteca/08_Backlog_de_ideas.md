@@ -20,9 +20,9 @@ Estado: backlog / pendientes / ideas no cerradas.
 
 ## 2. Pendientes narrativos
 
-### 2.1. Arco 1 — La Garganta
+### 2.1. Capítulo 1 — La Garganta, dentro del Arco 1
 
-- Definir el pensamiento exacto de la protagonista cuando hace contacto visual con el capitán al cierre del Arco 1.
+- Definir el pensamiento exacto de la protagonista cuando hace contacto visual con el capitán al cierre del Capítulo 1.
 - Encontrar una mejor formulación para describir las manos regeneradas de la protagonista después de la exposición a sangre.
 - Definir el término definitivo para el espacio bajo la mina: cámara sellada, altar, templo, santuario u otro.
 - Definir una descripción visual mínima del altar y la escalera.
@@ -66,7 +66,7 @@ Estado: backlog / pendientes / ideas no cerradas.
 
 - Definir si el espectro de hielo tendrá identidad, nombre o historia individual.
 - Definir si el espectro de hielo fue Chainlink 5, 6, 7 u 8 antes de su deterioro.
-- Definir si el espectro de hielo volverá a aparecer después del Arco 1.
+- Definir si el espectro de hielo volverá a aparecer después del Capítulo 1.
 
 ### 3.5. Entidades de escala mayor
 

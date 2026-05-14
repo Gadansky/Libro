@@ -5,9 +5,9 @@ Estado: documento de trabajo, no canon.
 ## 1. Estado general actualizado del proyecto
 
 - La Biblia de mundo sigue fuerte en sistema metafísico, escala de poder, facetas, ascensión y artefactos.
-- El proyecto ya cuenta con una base narrativa inicial más clara: protagonista ancla, presente narrativo, aldea inicial, Arco 1, lugares principales, facciones iniciales y conflicto de entrada.
+- El proyecto ya cuenta con una base narrativa inicial más clara: protagonista ancla, presente narrativo, aldea inicial, Capítulo 1 dentro del Arco 1, lugares principales, facciones iniciales y conflicto de entrada.
 - La estructura documental del proyecto está más ordenada: presente narrativo, arcos, personajes, lugares, tecnología, artefactos y backlog cumplen funciones más diferenciadas.
-- El mayor riesgo actual ya no es la falta absoluta de punto de entrada humano, sino seguir expandiendo sistema global sin desarrollar la continuidad narrativa posterior al Arco 1.
+- El mayor riesgo actual ya no es la falta absoluta de punto de entrada humano, sino seguir expandiendo sistema global sin desarrollar la continuidad narrativa posterior al Capítulo 1.
 - Las áreas que requieren mayor desarrollo son la estructura del Arco 2, la continuidad posterior a la llegada del capitán del ejército secreto, la religión oficial, la tecnología de esencia, la línea temporal macro y el funcionamiento institucional detallado del Imperio.
 
 ---
@@ -21,16 +21,16 @@ Estado: documento de trabajo, no canon.
 - La sociedad común desconoce la esencia y la ascensión.
 - Lo sobrenatural existe para la población común como rumor, mito, superstición o relato regional.
 
-### 2.2. Arco 1 — La Garganta
+### 2.2. Capítulo 1 — La Garganta, dentro del Arco 1
 
-- El Arco 1 quedó estructurado como cadena causal local.
+- El Capítulo 1 quedó estructurado como cadena causal local dentro del Arco 1.
 - La protagonista entra en la mina por una situación social de presión y desafío durante una fiesta en la Garganta.
 - Los extraños de la aldea quedaron definidos como miembros del ejército secreto bajo una excusa pública de auditoría o problema de impuestos.
 - La cámara sellada bajo la Garganta quedó vinculada al altar de la Máscara.
 - La regeneración inicial por sangre quedó separada de la faceta de largo plazo de la protagonista.
 - La faceta de largo plazo de la protagonista quedó definida como hielo.
 - La herida del brazo quedó definida como corrupción permanente de esencia corporal provocada por la faceta de hielo.
-- El cierre del Arco 1 quedó ubicado en la llegada del capitán del ejército secreto a la casa de la protagonista.
+- El cierre del Capítulo 1 quedó ubicado en la llegada del capitán del ejército secreto a la casa de la protagonista.
 
 ### 2.3. Personajes y entidades
 
@@ -333,7 +333,7 @@ Estado: documento de trabajo, no canon.
 
 ### 8.2. Prioridad de corto plazo
 
-- Resolver los pendientes internos restantes del Arco 1.
+- Resolver los pendientes internos restantes del Capítulo 1.
 - Definir personajes principales del entorno inicial.
 - Profundizar el capitán y el equipo del ejército secreto.
 - Definir la estructura inicial del Arco 2.
@@ -342,7 +342,7 @@ Estado: documento de trabajo, no canon.
 
 - No desarrollar todos los artefactos menores en profundidad.
 - No desarrollar todos los continentes todavía.
-- No desarrollar toda la cosmología antes de tener continuidad narrativa posterior al Arco 1.
+- No desarrollar toda la cosmología antes de tener continuidad narrativa posterior al Capítulo 1.
 - No cerrar el rol narrativo de Nes hasta saber cuándo y cómo aparecerá en la historia.
 
 ---
