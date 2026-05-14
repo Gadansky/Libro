@@ -1,0 +1,68 @@
+# Fiction Forge MCP configuration for the Libro project.
+project:
+  title: "Libro"
+  subtitle: ""
+  author: ""
+  publisher: ""
+  year: 2026
+
+structure:
+  book_dir: "Capitulos"
+  reference_dir: "Biblioteca"
+  output_dir: "output"
+  templates_dir: "templates"
+  cover_image: ""
+  illustrations_src: "Ilustraciones"
+  front_matter: []
+  parts:
+    1: { number: "I", name: "Arco 1" }
+
+characters:
+  aliases:
+    protagonista:
+      - "protagonista"
+      - "la protagonista"
+      - "personaje ancla"
+      - "mc"
+    madre_protagonista:
+      - "madre"
+      - "madre de la protagonista"
+      - "viuda"
+    padre_protagonista:
+      - "padre"
+      - "padre de la protagonista"
+      - "cazador"
+    capitan_ejercito_secreto:
+      - "capitan"
+      - "capitan del ejercito secreto"
+      - "capitán"
+      - "capitán del ejército secreto"
+    espectro_de_hielo:
+      - "espectro de hielo"
+      - "entidad de hielo"
+    nes:
+      - "nes"
+      - "n.e.s."
+      - "modulo n.e.s."
+      - "módulo n.e.s."
+
+reference_sources:
+  indice: "Biblioteca/00_Indice_y_estado_del_canon.md"
+  biblia: "Biblioteca/01_Biblia_de_mundo.md"
+  presente: "Biblioteca/02_Presente_narrativo.md"
+  arcos: "Biblioteca/03_Arcos_narrativos.md"
+  personajes: "Biblioteca/04_Personajes.md"
+  lugares_facciones_sociedades: "Biblioteca/05_Lugares_facciones_y_sociedades.md"
+  tecnologia_esencia: "Biblioteca/06_Tecnologia_y_esencia.md"
+  artefactos: "Biblioteca/07_Artefactos.md"
+  backlog: "Biblioteca/08_Backlog_de_ideas.md"
+  diagnostico: "Biblioteca/09_Diagnostico_y_plan_de_mejora.md"
+  legacy: "Biblioteca/99_Legacy.md"
+
+scanner:
+  preset: "literary_fiction"
+  severity:
+    critical: 12.0
+    high: 6.0
+    medium: 3.0
+
