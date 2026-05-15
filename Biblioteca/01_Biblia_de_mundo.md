@@ -104,7 +104,8 @@ Este fenómeno puede afectar a ascendidos de Chainlink 5, 6, 7 y 8, porque todos
 - **Psíquica:** faceta asociada al principio mental, identitario y volitivo que permite la formación de fenómenos psíquicos. Su color perceptivo traducido para la comprensión humana es morado.
 - **Electricidad:** faceta asociada al movimiento de electrones entre átomos y a fenómenos de carga, magnetismo, rayos y comportamiento electromagnético. Su color perceptivo traducido para la comprensión humana es azul morado.
 - **Espacio-tiempo:** faceta asociada a la estructura dimensional de la realidad. Su color perceptivo traducido para la comprensión humana es cromático y nunca se mantiene fijo en un solo color.
-- **Alma:** fenómeno o estructura emergente producido por la interacción entre la faceta anímica y la faceta psíquica. En el quinto Chainlink, esta alma se cristaliza y se vuelve físicamente real como núcleo.
+- **Alma:** fenómeno o estructura emergente producido por la interacción entre la faceta anímica y la faceta psíquica. En el quinto Chainlink, esta alma se cristaliza y se vuelve físicamente real como núcleo. Lo álmico corresponde a lo relativo al alma; lo anímico corresponde a la faceta anímica.
+- **Álmico / álmica:** término técnico relativo al alma como estructura, fenómeno o soporte de conciencia. Se diferencia de **anímico / anímica**, que se refiere específicamente a la faceta anímica.
 - **The Chain Links of Ascension:** secuencia de eslabones de ascensión que marcan el avance de un ser hacia estados superiores de poder, existencia y sincronía con el universo.
 - **Chainlink:** nombre canon de cada eslabón individual dentro de la Cadena.
 - **Chainlink 0 (Mortal):** estado base de existencia de un ser ordinario no ascendido.
