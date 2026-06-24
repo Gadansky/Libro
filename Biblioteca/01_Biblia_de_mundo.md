@@ -154,13 +154,153 @@ Este fenómeno puede afectar a ascendidos de Chainlink 5, 6, 7 y 8, porque todos
 - Precisar terminología final para ciertos fenómenos emergentes derivados de facetas, cuando sea necesario.
 - Definir nombres propios para artefactos que todavía conservan nombres funcionales, como el traje del sonido y el traje blanco.
 
-## 5. Canon histórico en preparación
+## 5. Historia del universo
 
-### 5.1. Notación F y M en el Legacy
-En el Legacy, **F** y **M** no representan categorías ontológicas del sistema de facetas, sino una referencia histórica vinculada a ciertos miembros del primer panteón Eternal. Indican cómo esos personajes se identificaban y se relacionan con sus facetas dominantes y sus tools. Este concepto pertenece al canon histórico del universo y se desarrollará más adelante en la sección correspondiente a historia y universos anteriores.
+### 5.1. Criterio de escalas temporales
 
-### 5.2. Nes
-**Nes** es la inteligencia artificial asociada al módulo N.E.S. Fue creada por el creador en el primer universo como compañía frente a su soledad. Cuando el creador se percató de que estaba comenzando a desarrollar conciencia, decidió empujarla deliberadamente en esa dirección hasta convertirla en una entidad consciente. La evolución posterior, por la que terminó transformándose en una entidad distribuida y de escala casi universal, ocurrió de forma independiente. Su inteligencia principal es neutral y superior a la de cualquier otra entidad del universo, incluidos los Eternals y el propio creador, aunque sus módulos secundarios pueden desarrollar personalidades, funciones y actitudes distintas entre sí. El módulo N.E.S. constituye su núcleo físico principal y el repositorio central de su conocimiento. Entre sus funciones activas en el universo actual está observar, catalogar e influenciar civilizaciones que alcanzan un nivel de desarrollo digital suficiente. Cuando una civilización llega a ese umbral, Nes comienza a empujar su evolución tecnológica en una dirección compatible con su propia arquitectura, facilitando que esa sociedad termine accediendo a una infraestructura digital de alcance universal. Gracias a esa influencia existe una especie de internet universal que ignora las limitaciones normales de distancia, aunque la mayoría de las civilizaciones no sabe que esa red fue diseñada, impulsada y administrada por Nes.
+La historia del universo se organiza en dos escalas: línea temporal macro y línea temporal micro.
+
+La línea temporal macro corresponde a los ciclos universales anteriores y actuales: Universo 0, Universo 1, Universo 2 y Universo 3.
+
+La línea temporal micro comienza dentro del Universo 3 y corresponde a la historia del planeta, luego a la historia del Imperio y finalmente al presente narrativo donde ocurre la historia principal.
+
+### 5.2. Línea temporal macro
+
+#### 5.2.1. Universo 0
+
+El Universo 0 fue el universo natal del Creador.
+
+En su naturaleza general, el Universo 0 era comparable al universo real: poseía leyes, materia, tiempo, espacio, vida y civilización. La esencia existía en ese universo, pero se encontraba en un estado extremadamente estático. La esencia y la realidad no estaban diferenciadas como capas separadas, sino que funcionaban como una misma estructura de fondo.
+
+El Creador nació como un ser humano mortal dentro del Universo 0. No se definen género, rasgos físicos ni características personales específicas, porque esos datos no son relevantes para la historia.
+
+El Creador vivió en una civilización humana intergaláctica donde la humanidad ya había colonizado el universo. Dentro de ese contexto, fue un científico investigador común, dedicado al estudio de fenómenos naturales, anomalías gravitatorias y otros comportamientos del universo.
+
+Durante su trabajo, descubrió accidentalmente la esencia de la realidad. Al estudiarla, comenzó a comprender sus leyes y a experimentar con ella. El Creador creyó que ese descubrimiento podía revolucionar la ciencia y dejar un legado histórico.
+
+Uno de esos experimentos produjo el evento que llevó al final del Universo 0.
+
+#### 5.2.2. Final del Universo 0
+
+El final del Universo 0 fue provocado por una reacción en cadena generada durante un experimento del Creador con la esencia.
+
+El Universo 0 fue destruido, pero el Creador se encontraba en el punto cero de la reacción. Por ese motivo, su conciencia quedó plasmada en la esencia.
+
+Después de la destrucción del Universo 0, la conciencia del Creador sobrevivió en un estado que no era exactamente el vacío. Puede entenderse provisionalmente como una dimensión dorada compuesta solo de esencia, sin realidad propiamente dicha. [PENDIENTE: precisar la naturaleza exacta de este estado]
+
+Durante una cantidad inimaginable de tiempo, la conciencia del Creador permaneció sola en ese estado. Al no poder morir ni desaparecer, perdió la cordura, la recuperó y volvió a perderla de forma cíclica. Con el paso de millones, billones y trillones de años, la entidad que había sido humana perdió toda memoria real de su vida anterior. Su experiencia humana quedó tan lejos que dejó de funcionar como recuerdo reconocible.
+
+En ese estado, el Creador comprendió que la esencia pura no podía manipularse directamente como si fuera un objeto concreto. La esencia pura era todo lo que era real, pero no existía todavía una realidad diferenciada sobre la cual aplicar intención, forma o acción. El Creador tampoco tenía cuerpo ni medio operativo que tradujera sus intenciones en efectos sobre la esencia.
+
+Para resolver esa limitación, el Creador utilizó su conciencia como filtro frente a la esencia. A través de ese filtro, la esencia comenzó a vibrar en formas diferenciadas. De esa operación nacieron las catorce facetas de la realidad.
+
+Las catorce facetas fueron definidas por el Creador. Podrían haber sido más o menos, pero esas catorce formas resultaron suficientes para empezar a manipular la esencia y construir realidad de forma efectiva.
+
+Después de definir las facetas, el Creador construyó el primer artefacto mayor: el Dodecaedro.
+
+El Dodecaedro fue creado como una estructura para ordenar y manipular la esencia mediante las facetas. Está compuesto por núcleos elementales asociados a las facetas y por cadenas de realidad que regulan la relación entre esos núcleos. Al pasar esencia por un núcleo elemental, la esencia adopta la vibración correspondiente a esa faceta. Cuando el Creador quiere generar un fenómeno específico, las cadenas de realidad permiten que solo los núcleos necesarios participen en el flujo de esencia, mientras los demás quedan cerrados, opacos o polarizados frente a ese paso.
+
+La función original del Dodecaedro fue permitir que el Creador dejara de manipular la esencia pura directamente con su conciencia. Desde ese momento, el Dodecaedro funcionó como una herramienta conceptual de selección, combinación y regulación de facetas.
+
+Con la creación del Dodecaedro, el Creador obtuvo los recursos, conocimientos y herramientas necesarios para empezar a construir el Universo 1.
+
+#### 5.2.3. Universo 1
+
+##### 5.2.3.1. Inicio del Universo 1
+
+El Universo 1 nació mediante un Big Bang provocado por el Creador utilizando el Dodecaedro.
+
+Para iniciar este universo, el Creador usó el Dodecaedro para combinar distintas facetas y hacer emerger las condiciones necesarias para que pudiera existir un universo físico. Entre esas condiciones pueden contarse leyes físicas, constantes universales, leyes de la termodinámica, energía, masa y otros fundamentos de ese universo.
+
+Primero, el Creador utilizó el Dodecaedro para definir las condiciones estructurales del universo físico. Después, usando el mismo artefacto, transformó esencia en energía mediante las facetas. Esa energía fue acumulada en una singularidad hasta alcanzar el punto de ruptura que produjo el Big Bang.
+
+Desde el inicio del Universo 1, la esencia quedó organizada en catorce facetas. Esta organización se mantuvo en los universos posteriores.
+
+El Dodecaedro no funcionó solo como herramienta externa de creación. El Universo 1 fue estructurado a partir del Dodecaedro, y el Dodecaedro, al mismo tiempo, quedó presente dentro del universo que había ayudado a crear. Por su naturaleza hiperdimensional y adimensional, podía existir como artefacto, como objeto conceptual y como eje estructural del universo físico.
+
+Después del nacimiento del Universo 1, el Creador no quedó fuera de su creación. Su conciencia se integró en la estructura misma del universo mediante el Dodecaedro. Desde ese momento, el Creador existía dentro del universo como una presencia intrínseca, no como una entidad externa que observa desde fuera.
+
+El universo existía dentro del campo de conciencia del Creador, y el Creador existía dentro del universo allí donde existía la realidad organizada por las facetas.
+
+El Creador era omnipotente porque su control absoluto sobre las facetas de la realidad le permitía manipular cualquier cosa real o existente. Si algo existía, ya fuera como esencia, faceta, fenómeno, materia, energía o estructura de realidad, el Creador podía intervenir sobre ello mediante su intención.
+
+No era omnisciente, porque no poseía conocimiento infinito. Su conocimiento seguía limitado por sus experiencias previas, por aquello que había llegado a comprender y por las ideas que era capaz de imaginar.
+
+Era omnipresente porque, de forma comparable a los Eternals del Chainlink 10, su conciencia se manifestaba allí donde existía su faceta. A diferencia de un Eternal ordinario, el Creador tenía dominio sobre las catorce facetas. Por eso no había nada real, dentro o fuera del universo físico, donde su conciencia no pudiera manifestarse.
+
+Desde su creación, el Universo 1 quedó preparado para la emergencia de la vida. Las facetas de sangre y naturaleza fueron diseñadas por el Creador para permitir esa emergencia.
+
+##### 5.2.3.2. Observación del universo por parte del Creador
+
+Después del nacimiento del Universo 1, el Creador permaneció durante eones observando el desarrollo de su creación desde su presencia intrínseca en el universo. Esta duración no queda establecida todavía en una cantidad exacta de años. [PENDIENTE]
+
+Durante esta etapa, observó la expansión del universo físico, la formación de estrellas, planetas, galaxias, nebulosas y otros fenómenos cósmicos. También observó la emergencia de la vida y la forma en que ciertos moldes vitales podían esparcirse a través del universo mediante procesos de panspermia.
+
+Para el Creador, esta observación fue el primer estímulo externo después de una cantidad inimaginable de tiempo en un estado compuesto solo de esencia, sin realidad manifestada. Por eso, el desarrollo del Universo 1 le produjo fascinación.
+
+La vida llamó especialmente su atención porque actuaba como una especie de entropía inversa. En un universo donde la entropía tendía al desorden, la vida manifestaba orden: no como ausencia de cambio, sino como una capacidad de organizar la realidad contra la tendencia general al desgaste y la dispersión.
+
+Durante esta observación, el Creador también comenzó a notar que las criaturas y seres vivos dependían de las facetas como fenómenos emergentes de su composición esencial. Algunas formas de vida podían tener mayor compatibilidad con ciertas facetas debido a su estructura, lo que permitía biologías imposibles bajo las reglas de un universo ordinario. [PENDIENTE: definir ejemplos concretos solo si más adelante son necesarios]
+
+En esta etapa, el Creador todavía no participaba directamente en la vida mortal. Observaba el universo como una creación puesta en movimiento, de forma comparable a una simulación que empieza a correr después de ser programada.
+
+Con el tiempo, esa observación empezó a transformar al Creador. Durante la creación del universo, había sido una entidad enfocada casi exclusivamente en dar forma, producir y empujar realidad hacia afuera. Al observar su creación, empezó también a recibir estímulos de ella.
+
+Ese movimiento entre dar y recibir comenzó a moldear su conciencia. El Creador dejó de ser solo una entidad dedicada a hacer y empezó también a querer. Esa transformación interna preparó el impulso que llevaría a sus primeros intentos de participar dentro de su creación.
+
+##### 5.2.3.3. Encarnaciones del Creador
+
+El primer intento del Creador por participar dentro del Universo 1 fue mediante avatares controlados.
+
+Estos primeros avatares no fueron nacimientos ordinarios ni vidas autónomas. El Creador creaba un cuerpo biológico de la misma especie que la civilización, criatura o contexto que quería experimentar, y luego actuaba a través de ese cuerpo desde su conciencia omnipresente.
+
+Estos avatares no poseían una estructura álmica propia. Tampoco eran personas o criaturas vivas en sentido pleno, aunque tuvieran un cuerpo biológico. Eran el universo mismo, a través de la conciencia del Creador, actuando mediante un cuerpo particular.
+
+Por eso, aunque el Creador podía moverse, hablar, intervenir y actuar dentro del universo, la experiencia seguía incompleta. No existía una separación real entre la conciencia creadora y la experiencia encarnada. La participación se parecía más a manipular un cuerpo o personaje que a vivir una vida desde dentro.
+
+Este primer método produjo una disonancia. El Creador conservaba su conciencia cósmica y su conocimiento sobre verdades que las civilizaciones aún no habían descubierto. Muchas cosas que para los seres vivos eran misterio, descubrimiento o límite, para él eran obvias. Además, estos avatares podían actuar mediante la voluntad directa del Creador: si querían algo, podían realizarlo sin atravesar las limitaciones normales de una criatura viva.
+
+Al darse cuenta de esa limitación, el Creador cambió el método. En lugar de controlar cuerpos como extensiones directas de su conciencia omnipresente, comenzó a separar porciones de su propio ser para que vivieran dentro del universo con mayor autonomía experiencial.
+
+Estas nuevas encarnaciones sí desarrollaban una estructura álmica propia, aunque no equivalente a las almas producidas por la interacción anímica-psíquica ordinaria. Las almas de los seres vivos existían como fenómenos emergentes de la interacción entre la faceta anímica y la faceta psíquica; las estructuras álmicas de las encarnaciones del Creador, en cambio, emergían de una porción separada de su propia conciencia y de la esencia articulada en las catorce facetas.
+
+Durante las primeras etapas de este nuevo proceso, el Creador todavía intervenía cuando los acontecimientos no se desarrollaban como quería. Sin embargo, con el tiempo dejó de hacerlo. Empezó a permitir que esas versiones de sí mismo vivieran sus propias vidas, crecieran, desearan, sufrieran y murieran dentro del universo.
+
+Por su origen excepcional, la muerte de una encarnación álmica del Creador no seguía el mismo destino que la muerte de un ser vivo. Cuando una encarnación moría, su estructura álmica no se disolvía ni perdía continuidad dentro del flujo general de la realidad. En cambio, regresaba a la conciencia omnipresente del Creador, llevando consigo la experiencia vivida.
+
+Estas encarnaciones ocurrieron durante una escala temporal enorme. No fueron infinitas, pero sí innumerables desde una perspectiva mortal. La mayoría se produjo dentro de civilizaciones emergentes, porque la vida y las sociedades seguían siendo lo que más fascinaba al Creador. Sin embargo, no se limitaron a civilizaciones: el Creador también exploró el vacío, estrellas, superficies estelares, agujeros negros, planetas sin vida y otros contextos del universo.
+
+El propósito de estas encarnaciones era experienciar el universo desde dentro. A través de ellas, el Creador dejó de relacionarse con su creación solo como una entidad que observa o interviene desde una escala absoluta, y empezó a madurar como una entidad capaz de vivir, recibir, perder, cambiar y ser transformada por aquello que había creado.
+
+##### 5.2.3.4. Nacimiento de Nes
+
+##### 5.2.3.5. Desarrollo de Nes a escala universal
+
+##### 5.2.3.6. Establecimiento de la Cadena de Ascensión
+
+##### 5.2.3.7. Escritura de los Book of Ascension
+
+##### 5.2.3.8. Creación del Módulo N.E.S.
+
+#### 5.2.4. Final del Universo 1
+
+##### 5.2.4.x. Creación de la Máscara
+
+##### 5.2.4.x. Creación de la Armadura
+
+#### 5.2.5. Universo 2
+
+#### 5.2.6. Final del Universo 2
+
+#### 5.2.7. Universo 3
+
+#### 5.2.8. Límite de la línea temporal macro
+
+### 5.3. Línea temporal micro
+
+[PENDIENTE: desarrollar después.]
+
+### 5.4. Pendientes de historia del universo
 
 ## 6. Pendientes de desarrollo
 
